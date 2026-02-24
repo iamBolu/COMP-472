@@ -1,0 +1,177 @@
+# COMP472 — Zero-Blocking Team Work Distribution (5 Members)
+
+This work plan is designed so that all five team members can work **in parallel without waiting on each other**, while still maintaining compatibility across the deep learning pipeline.
+
+Each member owns a different layer of the system to minimize merge conflicts and maximize visible GitHub contributions.
+
+---
+
+# Member 1 — Dataset Structure & Statistics Lead
+
+## Primary Responsibility
+
+Define and stabilize dataset organization so all other components can rely on a consistent structure.
+
+## Early Tasks (High Priority)
+
+* Confirm dataset directory structure:
+
+data/raw/dataset_name/class_name/image.png
+
+* Confirm class naming consistency across datasets.
+* Ensure train/validation/test splits exist.
+
+Once this structure is confirmed, all other members can begin work.
+
+## Continuing Tasks
+
+* Count images per dataset and per class.
+* Document dataset statistics:
+
+  * number of classes,
+  * number of images,
+  * resolution examples.
+* Prepare dataset tables for progress report.
+
+Deliverable:
+Dataset analysis documentation.
+
+---
+
+# Member 2 — PyTorch Dataset & DataLoader Lead
+
+## Primary Responsibility
+
+Create the data loading system used during training.
+
+## Tasks
+
+* Implement PyTorch Dataset classes.
+* Implement DataLoader batching logic.
+* Debug loading performance.
+* Ensure compatibility across all datasets.
+
+Primary Files:
+
+scripts/datasets/dataset_loader.py
+
+Deliverable:
+Reusable image tensor and label tensor pipeline.
+
+---
+
+# Member 3 — Preprocessing & Augmentation Lead
+
+## Primary Responsibility
+
+Prepare images before they are fed into CNN models.
+
+## Tasks
+
+* Implement image resizing.
+* Implement normalization.
+* Implement augmentation strategies.
+* Test augmentation stability.
+
+Primary Files:
+
+scripts/preprocessing/transforms.py
+
+Note:
+Work can begin using sample images before final dataset loader integration.
+
+Deliverable:
+Reusable preprocessing pipeline.
+
+---
+
+# Member 4 — Training Framework Lead
+
+## Primary Responsibility
+
+Build reusable training infrastructure.
+
+## Tasks
+
+* Implement training loop.
+* Configure optimizers.
+* Setup checkpoint saving.
+* Implement logging utilities.
+
+Primary Files:
+
+scripts/training/train.py
+scripts/training/trainer.py
+
+Note:
+Dummy tensors can be used during early testing.
+
+Deliverable:
+Reusable training framework.
+
+---
+
+# Member 5 — Evaluation & Documentation Lead
+
+## Primary Responsibility
+
+Handle performance evaluation and reproducibility documentation.
+
+## Tasks
+
+* Implement evaluation metrics:
+
+  * Accuracy,
+  * Precision,
+  * Recall,
+  * F1 Score.
+* Implement confusion matrix generation.
+* Setup experiment result logging.
+* Expand README documentation:
+
+  * dataset instructions,
+  * setup instructions.
+
+Deliverable:
+Evaluation module and updated documentation.
+
+---
+
+# Integration Workflow
+
+Later integration follows this pipeline:
+
+Dataset Loader
+↓
+Preprocessing & Augmentation
+↓
+Training Framework
+↓
+Evaluation Metrics
+
+Each module connects through clearly defined interfaces.
+
+---
+
+# Integration Lead (Recommended)
+
+Assign one rotating integration lead weekly.
+
+Responsibilities:
+
+* Merge pull requests.
+* Resolve conflicts.
+* Maintain repository stability.
+
+---
+
+# Objective
+
+This structure ensures:
+
+* Parallel development.
+* Equal contribution visibility.
+* Frequent GitHub commits.
+* Minimal dependency blocking.
+
+Designed specifically to support COMP472 project grading expectations.
