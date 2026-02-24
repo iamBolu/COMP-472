@@ -79,6 +79,32 @@ Evaluation metrics under implementation include:
 Validation testing workflows are being prepared.
 
 ---
+## Dataset Structure (Phase 2 Contract)
+
+All team members must use the following dataset structure.
+
+Datasets are stored locally and are not tracked on GitHub due to size limitations.
+
+data/raw/
+
+- miracle9to9/
+  - train/
+  - val/
+  - test/
+
+- orvile/
+  - train/
+  - val/
+  - test/
+
+- malaria/
+  - train/
+  - val/
+  - test/
+
+Each split contains class folders followed by microscopy images.
+
+---
 
 ## Phase 3 — Training Models From Scratch (Upcoming / Early Development)
 
@@ -170,32 +196,7 @@ GitHub commit activity will be used as part of individual contribution evaluatio
 
 ---
 
-## Dataset Structure (Phase 2 Contract)
 
-All team members must use the following dataset structure.
-
-Datasets are stored locally and are not tracked on GitHub due to size limitations.
-
-data/raw/
-
-- miracle9to9/
-  - train/
-  - val/
-  - test/
-
-- orvile/
-  - train/
-  - val/
-  - test/
-
-- malaria/
-  - train/
-  - val/
-  - test/
-
-Each split contains class folders followed by microscopy images.
-
----
 
 ## License
 
