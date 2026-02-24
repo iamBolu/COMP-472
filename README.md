@@ -170,6 +170,33 @@ GitHub commit activity will be used as part of individual contribution evaluatio
 
 ---
 
+## Dataset Structure (Phase 2 Contract)
+
+All team members must use the following dataset structure.
+
+Datasets are stored locally and are not tracked on GitHub due to size limitations.
+
+data/raw/
+
+- miracle9to9/
+  - train/
+  - val/
+  - test/
+
+- orvile/
+  - train/
+  - val/
+  - test/
+
+- malaria/
+  - train/
+  - val/
+  - test/
+
+Each split contains class folders followed by microscopy images.
+
+---
+
 ## License
 
 This repository is created strictly for academic use as part of COMP472 at Concordia University (Winter 2026).
