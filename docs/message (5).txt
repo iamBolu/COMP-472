@@ -1,4 +1,4 @@
-# COMP472 — Zero-Blocking Team Work Distribution (5 Members)
+# COMP472 - Zero-Blocking Team Work Distribution (5 Members)
 
 This work plan is designed so that all five team members can work **in parallel without waiting on each other**, while still maintaining compatibility across the deep learning pipeline.
 
@@ -6,7 +6,7 @@ Each member owns a different layer of the system to minimize merge conflicts and
 
 ---
 
-# Member 1 — Dataset Structure & Statistics Lead
+# Member 1 - Dataset Structure & Statistics Lead
 
 ## Primary Responsibility
 
@@ -38,7 +38,7 @@ Dataset analysis documentation.
 
 ---
 
-# Member 2 — PyTorch Dataset & DataLoader Lead
+# Member 2 - PyTorch Dataset & DataLoader Lead
 
 ## Primary Responsibility
 
@@ -60,7 +60,7 @@ Reusable image tensor and label tensor pipeline.
 
 ---
 
-# Member 3 — Preprocessing & Augmentation Lead
+# Member 3 - Preprocessing & Augmentation Lead
 
 ## Primary Responsibility
 
@@ -85,7 +85,7 @@ Reusable preprocessing pipeline.
 
 ---
 
-# Member 4 — Training Framework Lead
+# Member 4 - Training Framework Lead
 
 ## Primary Responsibility
 
@@ -111,7 +111,7 @@ Reusable training framework.
 
 ---
 
-# Member 5 — Evaluation & Documentation Lead
+# Member 5 - Evaluation & Documentation Lead
 
 ## Primary Responsibility
 

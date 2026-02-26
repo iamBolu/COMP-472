@@ -1,4 +1,4 @@
-# COMP472 — Malaria Parasite Image Classification using CNNs
+# COMP472 - Malaria Parasite Image Classification using CNNs
 
 ## Project Overview
 
@@ -20,50 +20,50 @@ Each team member is expected to contribute regular commits throughout developmen
 
 ## Current Project Status
 
-### Phase 2 — Data Preparation & Pipeline Setup (In Progress)
+### Phase 2 - Data Preparation & Pipeline Setup (In Progress)
 
 The following work has been completed or is currently underway:
 
 #### Dataset Preparation
 
-* Three malaria parasite classification datasets selected from different sources to satisfy project requirements.
-* Datasets downloaded from publicly available sources (primarily Kaggle).
-* Dataset filtering performed to ensure total image count remains below project limits.
-* Class mapping and filtering completed to remove irrelevant or inconsistent labels.
-* Conversion of annotation-based datasets into classification-ready folder structures.
+- Three malaria parasite classification datasets selected from different sources to satisfy project requirements.
+- Datasets downloaded from publicly available sources (primarily Kaggle).
+- Dataset filtering performed to ensure total image count remains below project limits.
+- Class mapping and filtering completed to remove irrelevant or inconsistent labels.
+- Conversion of annotation-based datasets into classification-ready folder structures.
 
 #### Dataset Splitting
 
-* Train, validation, and test splits implemented.
-* Balanced dataset distributions ensured across splits where applicable.
+- Train, validation, and test splits implemented.
+- Balanced dataset distributions ensured across splits where applicable.
 
 #### Data Pipeline Development
 
-* Initial dataset loading pipeline being implemented using PyTorch Dataset and DataLoader classes.
-* Debugging ongoing to ensure compatibility across datasets.
+- Initial dataset loading pipeline being implemented using PyTorch Dataset and DataLoader classes.
+- Debugging ongoing to ensure compatibility across datasets.
 
 #### Preprocessing and Augmentation (Ongoing)
 
 Planned preprocessing includes:
 
-* Image resizing and normalization.
-* Basic augmentation techniques to improve model robustness.
+- Image resizing and normalization.
+- Basic augmentation techniques to improve model robustness.
 
 #### Training Framework Setup (In Progress)
 
 The team is developing a reusable training framework including:
 
-* Logging mechanisms.
-* Model checkpoint saving.
-* Debugging and monitoring utilities.
+- Logging mechanisms.
+- Model checkpoint saving.
+- Debugging and monitoring utilities.
 
 #### Model Selection
 
 The following CNN architectures have been selected for experimentation:
 
-* ResNet-18
-* VGG-16
-* MobileNet-V2
+- ResNet-18
+- VGG-16
+- MobileNet-V2
 
 Initial small-scale validation tests are planned before large training runs.
 
@@ -71,14 +71,15 @@ Initial small-scale validation tests are planned before large training runs.
 
 Evaluation metrics under implementation include:
 
-* Accuracy
-* Precision
-* Recall
-* F1 Score
+- Accuracy
+- Precision
+- Recall
+- F1 Score
 
 Validation testing workflows are being prepared.
 
 ---
+
 ## Dataset Structure (Phase 2 Contract)
 
 All team members must use the following dataset structure.
@@ -106,21 +107,21 @@ Each split contains class folders followed by microscopy images.
 
 ---
 
-## Phase 3 — Training Models From Scratch (Upcoming / Early Development)
+## Phase 3 - Training Models From Scratch (Upcoming / Early Development)
 
 The next stage of development includes:
 
-* Training ResNet-18 on all three datasets.
-* Training VGG-16 on all three datasets.
-* Training MobileNet-V2 on all three datasets.
+- Training ResNet-18 on all three datasets.
+- Training VGG-16 on all three datasets.
+- Training MobileNet-V2 on all three datasets.
 
 This results in nine baseline models trained from scratch.
 
 Additional work will include:
 
-* Debugging failed training runs.
-* Organizing saved checkpoints.
-* Generating comparison plots across datasets and architectures.
+- Debugging failed training runs.
+- Organizing saved checkpoints.
+- Generating comparison plots across datasets and architectures.
 
 ---
 
@@ -176,9 +177,9 @@ Final dependency requirements will be provided once pipeline development stabili
 
 Detailed instructions for:
 
-* training models,
-* validating performance,
-* running pretrained models,
+- training models,
+- validating performance,
+- running pretrained models,
 
 will be finalized as development progresses toward Phase 4.
 
@@ -188,15 +189,13 @@ will be finalized as development progresses toward Phase 4.
 
 All team members are expected to:
 
-* commit regularly,
-* document major changes,
-* maintain readable commit messages.
+- commit regularly,
+- document major changes,
+- maintain readable commit messages.
 
 GitHub commit activity will be used as part of individual contribution evaluation.
 
 ---
-
-
 
 ## License
 

@@ -1,0 +1,1534 @@
+Broken/unreadable files:
+dataset split   class_raw                                                                       filepath
+malaria  test  gametocyte   ..\data\raw\malaria\test\gametocyte\96957ec3-de17-41cf-855b-1388814e5918.jpg
+malaria  test  gametocyte   ..\data\raw\malaria\test\gametocyte\a1265844-329c-4a49-a37f-e0541b83a50c.jpg
+malaria  test  gametocyte   ..\data\raw\malaria\test\gametocyte\bdfbad30-fa2f-4285-bf02-6064ab6d869c.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\0346611b-ea43-45bd-9f16-c6e8086273d2.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\03be08c8-2cf3-4de6-8ac6-5f7817a6a643.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\0897f682-5301-49fc-a8d5-9df7762040bb.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\15a5849d-8bc7-4e01-938b-c1f55067787d.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\291fe50c-2134-4708-bfa4-09b36ffea123.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\3147f1e4-6fc4-4eff-a9dd-ddeee5e2de13.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\34f334e6-a163-4af7-a1ed-51a7ef15934a.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\37df4ffb-f268-4557-94d6-bf68d005feae.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\3e03b313-66eb-471f-a97a-7b2bf20dcff5.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\408745a6-79fb-4804-9c24-e2d6673f8f2e.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\47112c6b-aaf6-488d-8f3b-f9ed0cce9a95.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\4dcd5df9-c56c-471b-8d44-fa4b1ca9a600.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\5a2447bf-a92b-4a47-a384-4b2ff020ecdc.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\6040cf0d-9dd6-4798-9406-1afbbcd24d4c.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\604478c7-1259-441a-8ad0-7059e191c9e4.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\64985a1e-16bb-4016-a01c-c21a5b86e572.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\6e20a860-1f9a-4a74-b167-4c6a79bd8778.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\74bf1267-d98b-4532-a81d-9d8df63e0f75.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\78ae52cf-8dad-4070-a40e-9af02faec1f0.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\7d16d1e8-4abf-46fc-81bc-d71bd08ed6f2.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\8874ea02-d263-4830-99d1-e1b14230a56b.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\887cc81a-bae3-4360-a115-23ae05ac3a4f.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\8db76867-671a-4488-a7b6-991e4dd2e05f.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\8e1e0fd3-52fb-4ebb-82de-67bbd66fcf4d.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\91fd0c2e-8e9c-452d-97ab-304b05a049b3.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\96287315-87a1-4045-9e16-119e045bf12a.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\9cf0b006-cb5c-47e7-b076-1dcacf1fbfb1.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\9fd32265-07f2-442b-80b5-35069891d452.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\a3548f89-1cb5-4e67-b460-482df95b10ee.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\aa57ec7c-8f35-4990-a790-62efc9df8fe8.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\b47c1011-0cc6-400d-9300-1c72f873a6e5.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\b6fe541f-3be2-41a8-8124-757fc1ad875e.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\b9025f55-789d-4acb-9c0a-34e877c95c5c.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\bc820fb6-5ba8-4438-affe-e250d2ad5eb0.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\bd4da4f8-8996-47e0-a4e5-a3da5717441e.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\bfbf234a-cbc4-4d00-ab7f-9043d1304b41.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\c3631a04-b757-407b-8e7e-1ed3a6c463d4.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\d1394e1a-dedd-4458-a024-044dae2cd69d.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\da2197c7-7911-4be6-8bb9-164f47fd270a.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\e26b88c6-5884-4b5c-94d7-ad780379c8ad.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\e6a7743e-4040-40fa-b097-ca6874c469b7.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\e93e617e-ed36-43d9-bd1a-4ffd2fba64e9.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\ef55f2ac-5a04-4986-99ab-0d2b5052ab3e.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\f070a212-e4e2-4743-804c-80789a36f495.jpg
+malaria  test        ring         ..\data\raw\malaria\test\ring\f08e873b-9617-42b3-9c7a-55d0e39c2663.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\0864c569-2ad7-48ed-b12a-e40aa5b93756.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\31c62771-4e90-4038-9abc-d196beda9898.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\3ce76f1d-636a-48b9-b0e3-fc7eb791a169.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\8e22f8cc-b6ef-48cb-a06d-a44cb1fb5f2f.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\a612e0d5-6a95-43cc-96a6-6fbcb8d45ff4.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\abb72ce2-4193-4dd3-a34c-61c2ee22ccff.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\b1d312cf-1f52-4955-bf42-58d3664c254a.jpg
+malaria  test    schizont     ..\data\raw\malaria\test\schizont\c6807595-100a-4aa1-a5f6-882a20ca3d32.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\087602a2-288b-4a4d-b01a-524f0d799d89.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\0a3b53c7-e7ab-4135-80aa-fd2079d727d6.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\15625643-d964-4b14-9839-c126384ae35b.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\1e647046-333b-4102-a0c6-4c29405c37b3.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\21116b9d-e6be-483f-8394-e74622b2e182.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\23e581e7-0fb7-42ff-ba55-a86beefc0619.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\25865b39-56fb-409a-8800-3d368dd264ed.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\2c03b3c9-7786-4e1b-ac2b-c98e9f8358f2.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\34950f4e-fe44-49ec-9d49-14bd4a8ce7c0.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\351d6536-3a5c-46eb-a6e4-d71dd999908a.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\41be1bd3-0d31-4881-bf1f-3ccdfa21ff12.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\4da8f6c5-5f85-4280-92d0-1ba008e8c404.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\511b6e13-acd7-4dd3-b1d0-c4aa10a514c7.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\51a42643-256f-463a-bf22-7fd295caead0.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\51c6bc6b-4f37-4ce3-b624-840b27c1584a.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\51f6463c-1622-4c0d-8482-b864e0ed2e74.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\55078c19-bfaf-4988-a779-767e1c6d22f6.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\5c399ab9-492c-4bfc-a452-83aba574a3bc.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\623982a0-1f73-4246-92cb-28f7c219efaf.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\6d9a2241-2cce-42b3-a11d-a3a6b432dd89.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\738b7be5-59b5-4d8c-8769-cbf2385b9fc7.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\8111cff9-4c04-448e-990b-9d5010f7be56.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\8298aca0-5099-4d45-88ca-ec8ac7922e77.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\96afe167-6a2f-4770-aa74-e083fbd5e926.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\a5c8bf78-61e2-492d-bae5-0ffeea81212b.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\baab0701-3fd4-4940-8b90-b9c42d95888f.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\c8d1b7ec-be9f-4c88-a39b-2c6bf46b2998.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\cc453255-b583-425e-bc3e-284ccf120944.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\cea1cd9b-9b03-407b-ad8d-348155567dab.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\d9255d7f-1282-442d-b152-73d7388526f9.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\d9ecacb0-14c7-4862-930b-18bb51d5f392.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\dea9006d-c360-4118-b77b-8bc959fa5f8a.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\deab75c9-00bc-488c-8b20-ff4515d85212.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\df4fd610-fa16-45ca-b3a3-a25a14e5c4e9.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\edea6ca9-3d52-4b4f-bec3-93799b1c26e3.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\efb85f8e-c780-4a19-b6ce-555a154b0d10.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\f0ee03d6-c57b-43a0-8812-359330bdb93a.jpg
+malaria  test trophozoite  ..\data\raw\malaria\test\trophozoite\f8ebe0c8-a90d-4a64-9f6a-f9985e38c340.jpg
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\027ab174-e47a-44f8-b85b-372449eeb7d8.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\04c07425-57c7-415c-a0bc-36857bbd4049.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\089c9744-f906-41d8-908d-1e37919a8658.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\14005767-9296-4b48-8a9d-bbe9b2040005.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\24879caf-a327-464c-9cd9-e0f3d9161079.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\25cfca07-2101-484f-b312-a927395f2651.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\2dbf6f69-e020-4948-9e49-4b33edb7cebd.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\3061aac0-cda3-47d1-8c48-6293e9ffdf36.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\318de807-7232-4ab1-843e-a901547c0125.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\46f5bd4f-8bea-48d1-a1da-4dea28e3b814.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\4aad9589-6b32-4522-bcd7-ca04687a02ca.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\4c460388-e0c1-4970-8527-c9e5b42bea49.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\4ce5a070-9ede-4bb1-9ca2-1bae5746776b.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\5893e081-04f2-4e33-9851-bed5f0e4d333.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\5a043d69-f435-46d4-8691-395c1602a76a.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\67f5ca94-d84e-490e-bf0d-4ffba7bdbe30.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\69569ecf-cfa1-4ddd-9342-b22c23387fdb.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\6bb4892c-27a9-4642-aba1-4b73f38f757c.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\6fb707b1-5c07-479f-8385-5404bf5747b0.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\75660b56-51c2-45a9-9c15-e18d12a3af8c.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\867f30da-2568-4480-9968-cece78c61c64.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\8a4aadac-cf5c-4a79-b875-271b3fbfd230.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\8e69098c-fae0-47a3-8833-c2bfdfb1a416.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\8f96ee1f-4ef7-4279-a610-316319bedcf9.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\9147a21d-0de2-4c04-88da-b788311696ac.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\9258fe22-6406-4d00-b6f0-3f9492925405.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\9a25f103-1683-47d1-8b07-ac20fe0b3ee9.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\b197093e-2928-46a4-8e35-fa5ea7ea6dac.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\b2f05937-b965-4c4b-b86e-f50e95d9d691.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\b618e87e-6059-496f-b0f6-e158f676a1fb.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\b834cbf7-ff97-49d9-9561-566c9343735c.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\b8410821-a42b-47d0-8bcf-c2fc82e4e2d5.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\b9de8b1a-f96a-4eb5-bc05-84ad43a054f3.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\bbf687b5-c6f9-4821-b2e5-a25df1acba47.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\c10b125d-10c2-474a-9c6a-5249935c638e.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\c649e1cb-4029-4433-b231-d67d68f7391a.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\c6d97845-8ad2-4ab7-b385-66613628df5b.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\cdb086a8-2bf8-4436-b1ef-96cdd801f247.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\d31dd2c0-ae8e-4499-86bb-7cabb6e438b9.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\dc4270fb-e5c2-414f-96e9-6769ba1d77e4.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\df49578a-60d4-4a3b-9ee0-79d9d59bc72a.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\eeb06e39-482b-443d-8cf6-b9b5c763df78.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\f20a4fcf-ea8e-4c14-883d-d26a9e08ce25.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\f24c8fe0-a534-44cf-9995-b2b314d945ba.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\f329e01b-fbd3-4fb5-9738-a7ff4c8622b8.png
+malaria train  gametocyte  ..\data\raw\malaria\train\gametocyte\f3d84be2-8af0-4d62-9f72-23d3dc08cbbe.png
+malaria train        ring        ..\data\raw\malaria\train\ring\00c8364b-8c85-4502-bcfe-64736fe76815.png
+malaria train        ring        ..\data\raw\malaria\train\ring\035f6c4b-0897-46ab-9c3b-5f3b0feff043.png
+malaria train        ring        ..\data\raw\malaria\train\ring\036404d1-b9fc-497b-bbe1-f4d9c5ac3ce0.png
+malaria train        ring        ..\data\raw\malaria\train\ring\04fb49a2-07b8-4cdf-b6f7-df5c3688e5f8.png
+malaria train        ring        ..\data\raw\malaria\train\ring\05717db9-f1ef-4101-a9f7-7a007e83b1c9.png
+malaria train        ring        ..\data\raw\malaria\train\ring\09ecf7be-28e2-4531-b9e2-07e01c44097d.png
+malaria train        ring        ..\data\raw\malaria\train\ring\0b04ec46-5119-4cda-8c35-c4e5b6f0eed0.png
+malaria train        ring        ..\data\raw\malaria\train\ring\0ceb4539-5c4c-487d-9826-452a88b5d537.png
+malaria train        ring        ..\data\raw\malaria\train\ring\0ed416f9-7c20-4829-9016-559e4009568e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\0f0c949e-018a-4f3f-ab02-3704f49c7754.png
+malaria train        ring        ..\data\raw\malaria\train\ring\1380f9b4-bf54-4492-90c3-743c7aa8898b.png
+malaria train        ring        ..\data\raw\malaria\train\ring\143f5959-5b6d-4f95-bcee-9e110450fc22.png
+malaria train        ring        ..\data\raw\malaria\train\ring\184b376b-03cb-4c2d-af51-fc1a62196293.png
+malaria train        ring        ..\data\raw\malaria\train\ring\1863da5f-c595-4541-a8f4-21fe78678168.png
+malaria train        ring        ..\data\raw\malaria\train\ring\18dbe7c4-89d2-42a6-a969-1e951ab313b1.png
+malaria train        ring        ..\data\raw\malaria\train\ring\1976cd04-d24f-457c-b423-7e4cdb05de9e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\1d4cdf2e-79a0-41e9-aabe-e437a190dfc4.png
+malaria train        ring        ..\data\raw\malaria\train\ring\244ac6fa-8a92-4214-9cf4-ae0811d9ec7e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\2cc3c4ad-670f-41b6-8910-0704cbc192ef.png
+malaria train        ring        ..\data\raw\malaria\train\ring\2e8d6a43-0110-4bf4-8e70-20567e513b81.png
+malaria train        ring        ..\data\raw\malaria\train\ring\2fdbd9bc-bbaf-44c2-b40c-d193709639fa.png
+malaria train        ring        ..\data\raw\malaria\train\ring\30167dc1-f739-4036-b5c4-5fad435c2c67.png
+malaria train        ring        ..\data\raw\malaria\train\ring\361a3578-4cbb-422b-9e3c-b5e61395b12e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\367663b2-5d09-4020-ab0a-c2200e7a1c8c.png
+malaria train        ring        ..\data\raw\malaria\train\ring\3911fcd2-4e26-4ad9-aaf0-d1c5bf41defc.png
+malaria train        ring        ..\data\raw\malaria\train\ring\393df10a-5d64-476b-88f5-14ac56d6ed60.png
+malaria train        ring        ..\data\raw\malaria\train\ring\3b5a8060-dec6-4a83-b7f2-b604e4e69dfc.png
+malaria train        ring        ..\data\raw\malaria\train\ring\3de03fa2-3ad3-43fc-8435-b2a80bdd7550.png
+malaria train        ring        ..\data\raw\malaria\train\ring\4411fea2-d785-4eeb-80c6-c739ab6114c4.png
+malaria train        ring        ..\data\raw\malaria\train\ring\452482bc-24a3-413e-ba03-fad4c9d61f3c.png
+malaria train        ring        ..\data\raw\malaria\train\ring\45902b63-be9a-49ae-9ede-3a8015671bc4.png
+malaria train        ring        ..\data\raw\malaria\train\ring\477e541c-0519-4542-9b13-8ee7922644d3.png
+malaria train        ring        ..\data\raw\malaria\train\ring\5487faad-24a7-46b6-92d8-479d3a8d229f.png
+malaria train        ring        ..\data\raw\malaria\train\ring\55836297-fc8e-4e00-9767-0d12b86e4604.png
+malaria train        ring        ..\data\raw\malaria\train\ring\56fbae44-4677-47f8-9c3a-22dac043c115.png
+malaria train        ring        ..\data\raw\malaria\train\ring\580210c2-a8ed-4720-b71c-a77945968abc.png
+malaria train        ring        ..\data\raw\malaria\train\ring\587e5464-d70b-4279-8562-010279f6efbd.png
+malaria train        ring        ..\data\raw\malaria\train\ring\5a105b89-c592-4d78-b208-7db6c6572752.png
+malaria train        ring        ..\data\raw\malaria\train\ring\6231d81d-9e84-4a5a-8cb8-47c6a37a0176.png
+malaria train        ring        ..\data\raw\malaria\train\ring\6303f964-98ef-47c6-bb2d-283aa393f918.png
+malaria train        ring        ..\data\raw\malaria\train\ring\63055d1b-5221-4c80-8b39-37ac069a1b5c.png
+malaria train        ring        ..\data\raw\malaria\train\ring\6347dd6a-cfdf-4cb5-bc50-cff5403cfecb.png
+malaria train        ring        ..\data\raw\malaria\train\ring\6382976c-ee87-4916-b798-4ef1373b2df0.png
+malaria train        ring        ..\data\raw\malaria\train\ring\63ed5931-d93e-4f9b-a6f3-152713cb560e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\6795acae-e84d-4e97-b9a1-b4f4f0a72cfd.png
+malaria train        ring        ..\data\raw\malaria\train\ring\6d91d1f0-636b-4f5a-a526-7c17fc857190.png
+malaria train        ring        ..\data\raw\malaria\train\ring\76dbce7f-dc3e-4a29-b1fe-ab9dce583080.png
+malaria train        ring        ..\data\raw\malaria\train\ring\78c35732-7e31-4153-842e-55ab1cd656f6.png
+malaria train        ring        ..\data\raw\malaria\train\ring\79b3a64f-2fb9-46e0-85d4-2bdd59c2075e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\79f63258-24ce-4e69-a5cb-8529635a89a9.png
+malaria train        ring        ..\data\raw\malaria\train\ring\7c66d2fd-68ee-4628-b860-9d7ad25b2a80.png
+malaria train        ring        ..\data\raw\malaria\train\ring\7d4c2160-317f-48d1-a60a-788ec300b3e8.png
+malaria train        ring        ..\data\raw\malaria\train\ring\81fed4a1-9d48-4938-90c9-c8bf3f5e6b1f.png
+malaria train        ring        ..\data\raw\malaria\train\ring\83ec8923-6232-40d7-ba1f-a1b8bf7cb66c.png
+malaria train        ring        ..\data\raw\malaria\train\ring\84ee2ea3-9edd-4672-a1b3-f09c607d833a.png
+malaria train        ring        ..\data\raw\malaria\train\ring\861c3e06-aada-47a0-99ae-94fbc2772cc0.png
+malaria train        ring        ..\data\raw\malaria\train\ring\8757be1e-b832-407a-8e95-62abae485b24.png
+malaria train        ring        ..\data\raw\malaria\train\ring\89b3d781-2f81-4d23-bed4-84da064df7f3.png
+malaria train        ring        ..\data\raw\malaria\train\ring\8bd71314-e38a-4670-bb25-5cd6c9acb595.png
+malaria train        ring        ..\data\raw\malaria\train\ring\948c94ad-395c-41f4-9a68-8a1dcb76888c.png
+malaria train        ring        ..\data\raw\malaria\train\ring\96596a68-8c95-43f3-b74e-e9506c235144.png
+malaria train        ring        ..\data\raw\malaria\train\ring\98175327-da9e-4e0c-8912-ee68490a4672.png
+malaria train        ring        ..\data\raw\malaria\train\ring\98efca97-37d2-4459-aca6-375ecc0c4539.png
+malaria train        ring        ..\data\raw\malaria\train\ring\9cdee92c-6267-4188-a41e-125bc0abb9ae.png
+malaria train        ring        ..\data\raw\malaria\train\ring\9e74feb8-017d-4d53-8896-9ebda4327dd1.png
+malaria train        ring        ..\data\raw\malaria\train\ring\a0eedcb9-b85c-4612-b945-7e8227f53c35.png
+malaria train        ring        ..\data\raw\malaria\train\ring\a302a6fa-f635-4ade-b72b-b6f3c2a34ec9.png
+malaria train        ring        ..\data\raw\malaria\train\ring\a4851ed0-1499-4eae-9157-dcd34773254f.png
+malaria train        ring        ..\data\raw\malaria\train\ring\a6f8a029-44ee-4fe3-b807-38d137347729.png
+malaria train        ring        ..\data\raw\malaria\train\ring\a7688988-2bcc-4458-83d3-5e482da5f87b.png
+malaria train        ring        ..\data\raw\malaria\train\ring\a9feccda-18f2-405e-9aa1-409fa1f49fe4.png
+malaria train        ring        ..\data\raw\malaria\train\ring\ac3358f1-ef9a-4ccc-b66c-da5e47e352e0.png
+malaria train        ring        ..\data\raw\malaria\train\ring\ad36bd67-594b-4f63-93e3-886af0bc618e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\ae17a099-18b5-4a42-a901-850ea056423e.png
+malaria train        ring        ..\data\raw\malaria\train\ring\afa470d9-c74c-41cd-b4dc-7bf93fde8263.png
+malaria train        ring        ..\data\raw\malaria\train\ring\b34e65f6-c32e-42f1-a437-4a037c75a231.png
+malaria train        ring        ..\data\raw\malaria\train\ring\b4bde4e8-f48b-4ae2-be01-86d8c91d0af9.png
+malaria train        ring        ..\data\raw\malaria\train\ring\b4e5e08d-6427-46f3-aca8-a4df165a151d.png
+malaria train        ring        ..\data\raw\malaria\train\ring\b6573be3-9e04-49c3-9f48-6a145d065363.png
+malaria train        ring        ..\data\raw\malaria\train\ring\c776eb78-3323-4571-b39f-7ffc73ae63ce.png
+malaria train        ring        ..\data\raw\malaria\train\ring\cc882eae-a341-4783-bd19-8bdedf798538.png
+malaria train        ring        ..\data\raw\malaria\train\ring\d3283f5b-3b3a-40ea-800b-79960ca851cb.png
+malaria train        ring        ..\data\raw\malaria\train\ring\d64cd75a-df26-44d5-ac25-69061a4e4d57.png
+malaria train        ring        ..\data\raw\malaria\train\ring\d6942996-5664-4370-ad87-2bdcbd49ac16.png
+malaria train        ring        ..\data\raw\malaria\train\ring\d8f7e159-b7e3-49e4-86e8-aed8c5fbcd97.png
+malaria train        ring        ..\data\raw\malaria\train\ring\dacf7e3f-1d8c-42a0-8539-3abe3971c956.png
+malaria train        ring        ..\data\raw\malaria\train\ring\db7c5ec1-fefe-4e9d-83c1-da8fb982f1e2.png
+malaria train        ring        ..\data\raw\malaria\train\ring\df3d98b9-3dd7-4107-8d4a-ae1b7f247793.png
+malaria train        ring        ..\data\raw\malaria\train\ring\dfac6c92-8f0f-429a-8caf-9b7732bf78da.png
+malaria train        ring        ..\data\raw\malaria\train\ring\dfc026a9-079f-4f45-8666-e0ccba5bb437.png
+malaria train        ring        ..\data\raw\malaria\train\ring\e3ea07d7-884a-412e-874a-40fd6b856736.png
+malaria train        ring        ..\data\raw\malaria\train\ring\e597f7ce-46c6-4dce-9063-50a2703fdd45.png
+malaria train        ring        ..\data\raw\malaria\train\ring\eaf4b781-b3aa-41ce-8c5e-287979b4e15a.png
+malaria train        ring        ..\data\raw\malaria\train\ring\eb77e4a9-acb0-4d83-8055-2c5fcaa54b45.png
+malaria train        ring        ..\data\raw\malaria\train\ring\ed0bee2f-05e0-4392-8357-19750cec577c.png
+malaria train        ring        ..\data\raw\malaria\train\ring\eef2ac0b-42de-4bc3-a3c3-d5fcd597fbe4.png
+malaria train        ring        ..\data\raw\malaria\train\ring\effd6334-516f-4d48-9f3c-5272a99780fb.png
+malaria train        ring        ..\data\raw\malaria\train\ring\f09acb0c-b270-4e91-99f8-410adfa7f34a.png
+malaria train        ring        ..\data\raw\malaria\train\ring\f5419bc0-4415-41b6-b832-5326cfcc534b.png
+malaria train        ring        ..\data\raw\malaria\train\ring\f7cced00-9b41-45ec-9fdf-fb9e1a74da90.png
+malaria train        ring        ..\data\raw\malaria\train\ring\f8a8b148-60e4-4a5c-ae19-941b19ec0846.png
+malaria train        ring        ..\data\raw\malaria\train\ring\f91670db-be74-474c-bd72-68120aed4756.png
+malaria train        ring        ..\data\raw\malaria\train\ring\fbcb2ef0-3c97-4d7a-8b96-0147c73f3941.png
+malaria train        ring        ..\data\raw\malaria\train\ring\fd1302e2-3cd2-4a1a-9c13-00f810a9c41b.png
+malaria train        ring        ..\data\raw\malaria\train\ring\fe00fa09-d3c8-485b-9d0f-3cce556c9edd.png
+malaria train        ring        ..\data\raw\malaria\train\ring\fe0c5e48-f65e-488c-9c3c-1ea7c7835c0c.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\003a89b0-a095-417a-8dd6-f408339bbc68.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\02ea7aa8-c142-4a3d-939f-e77689741341.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\02fb5e19-6f94-4787-bb78-e550a29a3cbd.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\04628a94-b674-469b-aff6-b476b70df87d.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\04de3a31-fc09-40be-9c2c-9830c57f809d.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\064b84fe-bd21-4c27-b682-0a832272eac4.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\07346d2e-a6e6-4dc0-95f1-9f7d8d7e3f66.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\0901f9d1-be4f-4c19-8e83-dd724dded9f5.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\09bcedaa-e007-4692-a13f-ab02c3f872c4.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\0d2aba33-6920-4001-bd54-59fe0bf9f50e.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\0da07970-3146-479c-8a07-f61ed32814a9.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\0f2a6cda-afec-437b-8803-8d3176b072c1.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\109fbb82-bc3c-41ac-984d-e2da86202873.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\1345dc89-a3d9-4b71-8a75-b3bff01ba518.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\157ac97a-396e-4f6c-94c6-72a4d06ccc5f.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\16a51468-9f93-45df-9ae2-5a74c25c5a4b.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\177f883a-f0f1-4b8e-b598-2ca4bab27381.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\17c06a23-bb77-49cb-9ffb-fbfc75fcc715.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\1d4f06e1-9c9b-487e-84cd-e7e50cc754da.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\1dd3e6dd-343f-4cc9-b0ed-e4d27fb36f0a.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\21cc498b-8cb2-42ed-8f80-bfa27b86ef11.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\2559636b-f01a-4414-93da-210c3b12d153.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\261562a8-ffd8-4e0e-919b-22e267000b74.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\26799d2b-a289-4eff-9218-0aad77e05e41.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\28c96a4a-4549-4761-99e4-ace4ea7e7ac9.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\30948737-0d0d-4b68-b9ab-50577e0fe026.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\37e072a6-000d-4773-8d9f-d66b60ace668.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\397f37bc-a3a4-4257-9430-c8fc5716f8b1.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\3b601a1b-26d8-4873-afcf-fdd1b1e0010c.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\45ac9409-5537-44ed-90cd-5c8a1ae0e1e0.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\461a3ed6-039f-4a70-97cf-c474ecf51ccd.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\4767bfcc-fe87-4962-8c40-6ce8d9363cdf.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\4811fdf2-d7e8-475e-a840-45dda5282bf3.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\4fac16e1-8e62-499b-a66b-c4c890372914.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\5077f87d-a19f-494c-b911-14ccb03bd230.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\516bf1d5-5d00-4985-926c-3993e9bc3ff5.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\5397d8e2-bb09-42e7-9861-65ffad0fe94e.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\555c6ea2-c76c-4e71-af57-855d940c2b37.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\6388e241-09a2-4fbe-a712-07d8fe714c51.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\65054b19-5c6a-4870-99a9-eef994721d3a.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\66557580-fd38-4d4b-80d8-88611ecc78c6.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\6b14c855-8561-417c-97a4-63fa552842fd.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\6b2ff7ca-c5b3-415c-9481-7b14efc6d7ef.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\6e39fb0a-aa41-4b16-b783-7589e97bf289.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\6e7ed596-1b76-4998-8147-a846d53d91c5.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\6f4ffe7b-395f-41ea-ad61-df5e0cbd531c.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\71cf2467-77d3-4fac-ac6e-1d8767717c34.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\75579b27-8191-4044-859b-268be969c42b.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\755e5bf8-e8e1-492b-a32f-f7d87cccaa40.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\79806898-0214-44bd-ba2c-b570e911be62.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\7d65d296-0f7b-41cc-9073-a547e24326c8.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\820bbfea-3dae-46fc-b61a-3d0ed2ea01c2.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\833b1d3e-d389-4d0f-8638-6aca5b89f917.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\883d9731-a04d-4f84-83c9-d3bef954759d.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\90a82250-1f68-48c9-9af9-15f18bf8c974.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\91827f1a-9b04-4ef0-972c-12e90e60c516.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\947348fe-4c70-468e-8009-3c14daeca69b.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\95d5e689-c1d1-4ae8-a659-cc20c62a99f0.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\9691c57a-ccf8-47f9-a8e9-9a324974585b.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\9bd40bc6-4949-42d3-b38f-d60422932f65.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\9e793460-d94c-47ac-b3a7-0d6ad86357da.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\9ecf2006-8d49-4ae8-a14b-ed8b3b14ee7c.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\a2d07312-2f97-40d2-8b09-7f2aca7b16fb.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\a3ada657-de00-44db-b1e2-54ba17e39983.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\a6ba808f-ec60-42a5-ad91-7b32412ab708.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\acdc6e12-73d9-44ba-be8c-2a56aaffef4f.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\afbb264e-ff60-443a-83f5-49d09be1b835.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\b12ae3b1-613c-4c0e-9163-3c5cc314abf5.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\b8dd6125-5027-47e2-a283-14e199274c80.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\b901c906-91be-48c4-88ec-2c527544a258.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\bb337c84-f727-42a5-9c3d-934323a16c6a.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\bc832bde-d3ea-4a8e-be90-7a3329dcc314.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\c0c3041f-78cd-46de-8e36-0a7dad0c04c4.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\c118ff18-f9f2-4617-bddb-dc4091fb8f5f.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\c1423156-82b3-4dd3-8e74-08eb7ed8e1d6.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\c147584d-4c61-412a-bdaf-b02b22c18708.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\c3042130-a6e2-458f-9fde-bb012f68f5f2.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\d1617cf7-eb56-42ee-85af-66c4748753c0.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\d47cd049-d78b-4ba3-a7d4-399be4dd1dde.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\d6352a03-ef81-421d-915e-226499555d20.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\d997337e-e4a8-4ef0-b8ba-975e6c43b62c.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\de00f9a5-aa8b-4679-8ec6-85528a942d6f.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f1f9df6d-c4cb-4b42-9ca2-8fb47b1b0e91.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f232eec3-02c0-43f9-bf32-3e60245397e2.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f25a2ac8-cb6e-4e05-a0cd-cc00ac47718a.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f4722a74-35e7-42bd-8ef6-dfff04b9cd22.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f4a27dfd-4c52-459f-96b5-ee6b452a3395.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f81806a8-5883-446c-be78-f0145b12dbdd.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\f8242b97-b8d5-48b5-b808-0b0f75a5de97.png
+malaria train    schizont    ..\data\raw\malaria\train\schizont\fbb1b44c-d75a-4550-a6c0-0eb62b96bfce.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\00d04a90-80e5-4bce-9511-1b64eabb7a47.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\01b38a56-13eb-447b-89ee-fc21cb40dcc1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\01b99da8-b66b-464b-a7ee-1cadab8db18b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\034c8d57-04d5-4786-93a4-6ae8fde2c258.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\036e008f-07a1-4e92-899d-1822dc390ccb.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\03b9d6ad-39ca-4097-a98b-77f02b3c00a7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\040112be-3c8d-49aa-93f1-522f94a592ff.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\04d21589-b777-43c2-86b5-038cbf8c3a4e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\05ac7b2a-6a77-4464-926b-8570f7c01693.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\06401963-8b02-46c5-ab2a-3d70bd01623f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\065af549-320a-4862-b92a-8ef750d7b5fb.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\06a3effb-996c-4767-afd2-6aa3b697cb4e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\06cd484f-e864-4fee-8819-688b45eed98e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\071901eb-4c3f-404b-a747-3d0b9d0a5158.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\082e1f81-4f49-44ad-b5bb-9dfc155b2ed8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\087f2c9c-188d-43cc-a94c-0eb8f10ac092.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\0906111b-bac7-4541-a6dc-da435c0724a8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\093a831a-bf71-4333-bc06-942ae70cb164.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\0ca25c88-457f-4f03-bbc1-98fb6663f1d1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\0dcca702-a4ef-4fb3-a940-9c0c140b21c7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\0f735cca-051c-4048-a1fa-cb36f389e12f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\0fcd1ebe-ee4a-40a0-b787-29cee18bfa1b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\105af41b-13cc-4ad1-8a1f-8bc4d47cdd94.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\11b72c7b-5c52-44b7-adb7-21eacc25e441.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\1519257c-e3e5-4474-908f-8665b3cf1258.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\151f3af5-5e6e-4bcd-9389-4974fc68813e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\161978c3-3a05-47a5-9fee-be7d25693eae.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\16ec6e1f-5020-40b3-ba26-51c340d03ee7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\1893e0c5-88e9-4644-bd59-3e47bc53a88c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\191071ab-6515-428c-9f05-8e4309542b75.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\194aec70-41a5-4ac3-b22f-0b6eda91f730.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\1c90231b-2830-42d9-884e-7301edb16933.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\1ecb0405-a6e9-4485-819e-2fbbf2b718aa.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\1fdf99d1-a494-4174-bcd7-efbe457ab899.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\1fe1e118-adb8-4b10-a41e-1e5814e8f067.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\205306da-0ed8-475a-ace6-f2f81d4be88a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\214f1d15-a081-476e-992d-6c3a77f03d59.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2196389c-45ec-46b5-bc6c-1f4a33df7f7c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\21a50e4c-b750-46b5-801f-5429ede7dea9.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\22a464ef-c3da-4d56-b37e-e22e95d945e7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\22cbf509-c9bf-46ec-bfce-f079c6b76c8c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2374ae5b-c2df-4db5-afea-c54180aa22e3.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\239f17eb-a2e2-47e9-82e3-fa0d9a70fb9f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\24115f58-a7d6-4022-a95a-86b515a78d3e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\24418314-f7a4-49fc-a03e-ec597ca6796e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2596eb32-1323-41e9-8c0f-64819abcfc73.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\259da25f-40f3-4d37-bca9-a9c807af1547.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\25c6cfb1-01d0-4864-87f9-02b7593683c7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\27cdd837-e40f-491e-8adb-61e493189832.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\29539cb0-1c52-46b2-9302-552f8349dc71.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\29648565-fe28-4517-ba72-68df0c82c9c5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\29d40b60-cde1-45b5-b403-692437a77ac1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2ac343e4-c889-47c1-8fe2-461b626def76.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2b128a1a-95ed-408b-b9f8-8795cc814d80.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2bd15b6e-fe2d-49f3-b394-940d024d1f91.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2bd26501-2fbc-4c1a-bef0-4ad57e02b4d0.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2bed2796-75a9-4d93-bb2d-e3ccbe1a5cbe.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2d0f600d-f94e-4907-b712-52fb37d9ed52.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2f6224be-50d0-4e85-94ef-88315df561b6.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\2f68686f-1fe8-46e7-ad92-a08e3523ea79.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3003252a-2d2e-4687-ad30-9c38d68f1394.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3090a362-1f3d-49e9-a76e-ce76ff9c2276.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\31435107-c77d-42f8-a619-75cba6a5161b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\31653d0f-c4e6-4e12-8005-518c2de34687.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\319c9c52-f316-49f3-baad-4444ab19f85b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\32700bc7-7a86-49d3-aded-ccaaed4ddc5c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3317d733-ec0d-45e6-b631-40457392f343.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\334bf865-e3fb-4200-bd53-d9ff5808ed9f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\340a1727-0df7-4e6f-9c0e-9c5deddbfca2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\345cb914-7583-49df-96e3-3cf19c2ba8f1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\34a70114-d3e3-4351-b8db-f6caab17e743.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\36569710-a574-40be-ad42-897a6e74a128.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\370277f8-436b-4103-8210-b4feb5ab95ea.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3768c577-4e5e-4d70-8c4d-93d8aacd5baa.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3892b776-f49a-4368-b0fa-7e855e76ccec.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\38c69905-8a4f-451a-8d0a-b855dc88dd16.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\38d1b930-dd97-4248-9160-e9389a1a8dd7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\390ad256-e1ed-476a-9f14-2dc34e0da632.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3a8f468f-f9de-46a8-a7c8-f2be239fa207.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3abbc4d3-1d7e-40c9-9963-33732da7cc50.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3cdcb09b-6a8c-43ca-b1d0-c1a289202f65.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3d302619-473d-4c5b-af43-8833ff94233f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3d32a988-449d-4d58-b71f-abbfdc3f2fbc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3dcd4f1b-ce43-4a34-b1ed-076bb42963b1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3e36698f-8c09-4c8b-8948-737310bf97e5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3eba916c-998b-40a7-993c-7ed916c2a04c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3f390b82-8859-4c27-bbfe-d1b242477f63.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\3ff98212-7c2a-46cd-afb7-34a2479bed07.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4272cbd7-5b0a-4bf7-b690-dee1c128f07b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\42845335-4ab2-4963-806d-0985d1382a31.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\42e87148-a015-4148-923a-fb83016f64e7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\441d7843-b20b-4c10-84e3-e6d32621e880.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\45651e76-4bd0-45e5-895b-edec65f51987.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\458cb2e9-5a7f-437c-ac5d-a56f98a3efdf.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\45f18ac0-f097-4b20-a99d-8837cf488822.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\468c261d-f5d8-423f-883e-48af2bbbc5d1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\46a03374-64c7-49ac-81c9-c3d62542bbf3.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\48e2f0bd-2164-40c3-af43-1f2708359978.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\49288109-80e9-4ec8-96d1-26a0166b8883.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4935818a-7e7a-4f44-a3b6-b361d1abfe16.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4a49841f-216c-4815-8140-b8762c4f6603.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4a717a39-80f8-4b75-a25e-c46d65d7dcd5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4ab47131-c2ac-461f-b95c-ac19ce24edbd.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4adcaa26-aa1f-47b5-bdf0-18c9f814f576.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4c13e22e-dfd1-4fa1-b373-be9d0c272c0f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4c7d2382-a962-4237-a053-955eea3decd8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4d0a1598-e4dd-45c4-8a90-dd7c780fe1da.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\4fb83278-adc5-4424-9f45-b6d0db2955b6.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\50f2f514-6c8e-4c79-b3b3-0be56dd0b78b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\51e86aa9-caa0-4297-94e8-34a57d7f7e36.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\52767904-4cdc-4821-ba68-8cd0c28f9023.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\53afd70c-08a7-4b9a-b137-7003b2ecbeab.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\540a5fee-175b-4b92-bf62-1ea9b59c86c6.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\56077789-8580-41b4-89d6-deea227e5c60.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\565513be-2c20-4ee3-94f3-093869515d3d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\56a57a8d-c9b9-432a-a3b0-32a09355806c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\56adbb1e-96a8-40a5-a5a2-243c97ea889b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\57e1879e-4294-45e7-9c1b-627e8cca0271.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\58065a0c-d4c5-40fd-bcdc-037f61788482.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\59542a24-b409-4c95-8608-d9691a741526.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\59dc7da9-35d1-421e-a61b-1e9637bfbfa1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\59f5699f-885f-4004-b783-a60060144e43.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5a631871-2fc7-4a68-9c39-f3b9a0bf4a04.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5bf91ff9-80df-49c0-9c3e-599357d95530.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5c99cd97-39f6-4809-9528-9d380cc16b16.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5cac6ddf-c8c6-45de-bce0-a1db64b14fb5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5e042380-6ef2-496f-8231-0ca550fbfa71.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5e17f8e6-fd8d-426c-b444-1515d14f04b7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\5f2b32bd-fdca-4d6f-b13a-ee9f83626c8d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6144887d-a1c1-46db-91a1-f7ff5bf8c8a5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\627d6331-7bb9-4d1a-b20d-e6541af4d0f9.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\64113b22-03b1-4ab8-89ab-b2f32154fbbd.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\645cd195-af50-409f-8da9-6e7c7f18ea09.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\64a678d4-9048-4491-90c7-1924f38be19a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\64b0e49a-0e48-447d-8872-c1dd255e7a21.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\66183740-e1e5-43c9-8539-a87028bb3621.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\664c570b-4822-413c-9724-11b1d91fac44.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6695a204-e39c-4418-b904-3f080fdbe7e8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\674b0fd3-f247-4b7f-97f7-3e6c57c9ba9e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\67a4fb91-6f38-4ca2-8f20-6b2f5f1b29a7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\69b5b3de-ec64-4e5d-bcc2-44f495e06e76.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6ad3efc9-4392-4cee-98a5-186564a96373.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6b473806-e936-4b19-98cf-a2b94cac35ff.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6b4c79f5-b194-4586-be9f-e339c5af4188.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6bc7b53c-5a98-48ef-a9de-59a476707ea4.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6c3f81d7-5670-46bd-9eaa-9b426413abb7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6e86206f-dafe-4c28-bacc-7b83b2d40f0c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\6f67a66b-56ec-4c36-ae7c-f250d3b86a23.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7029feb3-9ffe-46e4-9883-6a9df84f7b62.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7094c11a-1e62-4f98-894e-d17d138a88e9.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\71204a6d-814e-44b6-9cee-7b979f478021.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\715761a2-745e-4743-9849-956a034ad3c4.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\716273ea-19c4-49af-8604-df587b295eca.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\72088c26-d2dd-4906-b791-b8947fc7fbe4.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\72732579-a812-4496-b2dd-ea1556924337.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\729733ff-a349-4a96-b636-ccabe7d7e167.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\74261741-4d6e-4dba-8ad4-4fbdf919c30f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\749df49e-5212-49ea-9e88-7d66f258f1df.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\76021d69-8919-4688-95ef-7418eff620cc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7624ac36-1cf9-42fb-844d-376078309553.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\76a8a5f5-1328-4539-a131-baf877f40cf3.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\770b8ca4-8377-479b-9ad5-5455ec3b44f8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7942691b-6376-4c75-ae8a-ddf65454dcb2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\79d7a014-21ff-40f1-9ac4-a69839390654.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7beee655-6156-43b8-b185-dbae0eaf7f45.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7c870293-2665-4a6b-a4fa-336959051dfc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7d041c38-11f2-4186-8a24-29d7d0f5c3cf.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7dcc84ce-e8b4-46c8-9506-7c8ebda5da2f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7ef90770-6aeb-45eb-9744-49c5247dde30.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7f528918-27d4-421f-ab57-0cf9c693e697.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\7fd2d254-b062-4f3d-8970-687e73c5a00a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8002cb71-0f25-4fa4-a46f-b49e5aeded0c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\81c3c8f0-d5a9-4dda-afd5-e86f6afd9424.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\81edcae1-65bf-4752-b0e4-494376b71e49.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\85546330-4efd-43e2-87aa-d53a30220bfc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\86495bbf-687b-429c-b9d3-6c2681ade7e2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\882b91b7-5906-4091-bad4-688d4375eeb5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8939e14b-fcdf-48b1-acb9-6514a2fc2fc0.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\89f10192-d3dd-4996-a571-4c851dbdc983.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8a7deb24-d2b4-4acf-86c4-3aadd39157fa.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8be185e7-2a1a-441c-a5c7-b50a9eb926cb.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8cc6fe77-5f2f-4670-b4ac-1b49550241a8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8d02117d-6c71-4e47-b50a-6cc8d5eb1d55.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8d56197c-21d7-4cb6-92df-80637efd129b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8e72e20e-e714-4db6-a1da-c05a409257d4.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\8f84a2c9-ca38-4405-a488-12fcd101278b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\90171428-f208-428a-b40e-f57ee3bea457.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\90246988-0d6d-4bf8-8a76-94107de4121e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9106a6bb-1352-411f-ac26-0d6fe48c16a8.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\93a306b8-594a-4c7f-8b4a-127fb6ad8f1a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\93b47b14-7f78-4b31-8897-d63a81fdab01.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\984caf56-f400-4a29-be97-a4d6b9d1468d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\98976666-9125-47fe-9601-43c41e58dfb4.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\99a21c5c-f5a7-4c07-9cb6-5dda2d388f48.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\99b13257-b9d9-422f-8262-802da0bdc510.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\99d6a7e5-128e-4455-841d-8fbd1663905e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\99e979d4-ee97-4d7f-9da6-00bead40db4d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9acf303a-fcba-4e52-be3e-8d061aa5e72a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9b410534-3b70-4a88-9f93-205cf4e55a05.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9c48fdf4-621d-4f40-bcd7-6a28cd530de7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9c4cb048-d64a-4b7f-84ff-ca28a8084fc7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9d155086-acf5-4c86-a9e1-94b587c46e87.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9dc6ed5d-6698-48cf-aab3-fd156673729c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9e0e1928-d19a-4100-b093-0b962ac09e05.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9e82c996-2cfa-418d-9482-8ee23e9d0a5d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9eb66577-7857-43dc-a879-8f2c9d7f780f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9f38055f-4fe6-47fd-a6dd-c0743db4eccf.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\9f959520-e15e-45c2-bc29-ef3c19154d1c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a054a8e2-55f2-4508-97df-207f76b89be2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a065c50b-341d-4803-b4b0-0fe8f04fdbb5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a0eeeb10-d0cb-48d9-8c22-2c3a3c908d00.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a11ed7d0-12f6-468f-abad-5cba7d968123.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a15e0fa8-2620-4f66-896e-175115c9dc3d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a1669b59-fe09-4fe6-ba9f-06bec6725502.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a2a20600-f851-4db7-90f9-6f7be027c8b5.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a30da226-b452-408a-a556-bfae4d521464.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a4409217-be11-4478-90a5-b406057d154d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a4d7a7e1-5ae1-486d-b6ee-c9af1476ccad.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a4fbb9f2-9b75-4fdc-877d-2feaafac25b3.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a51d6c18-f9e8-4714-9dbb-38e1577445f2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a5c3b3f8-7ceb-4573-a400-a76b9479af46.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a63ce82f-f3d1-4818-9035-d3d230e5f686.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a6526894-e290-482d-ac43-f1df34864817.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a72cd558-b7ac-4bf2-a344-2ce6c73a354e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a777e78c-ad1f-4380-9ab2-b4f9f32b2d78.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a824b499-3736-4581-bbdc-be1b3b4cf756.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a88a48b6-f85c-45c1-b42f-79716c8463f1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a9159b11-ba49-4885-902e-00c8d5095b98.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\a9daf82a-a46d-4296-bd72-2c374ed0a193.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\aaade430-4c49-4038-97b7-f8cdd937db57.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ac4d6507-d710-497b-ad7c-e0dd75c1d06d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ae779806-6d01-4dc6-89df-294c368db6bc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\afd39466-aafa-4d81-9520-483727418723.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b1145408-feae-4637-b4cf-3e70b99cc62d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b4261fa5-876d-48ea-b6da-ec7ca5b48fe2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b634137b-bc8b-4e88-b0e3-b536ad6e7e18.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b6364a57-72a9-43f3-8d02-9f53a992dc95.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b666fcc2-d0b2-441e-bc5a-c660345eeb5d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b7d0ae11-a393-4aec-8f68-6ba07147f78a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b809b407-7b69-4334-873d-d6c49135f04a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b87fb62d-2c36-4f68-aba9-37fcd7d46eef.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b8a4d467-c40c-4ebf-91dd-1c19d0f2a7ae.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b9c6db13-ca3a-4937-8ecf-e537047ed858.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b9ccf7ca-953f-4832-9575-5e70b2a8c224.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\b9d65ef3-1adc-4479-abee-2e422f5a613a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\baa87bf8-786c-444c-81e8-9fa0a41d8149.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\bb137718-20ba-457d-8ffe-4f9420ecaab6.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\bb2042c5-35e1-43cc-8171-7de81b764361.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\bcaefb02-682a-41b9-acc7-e6cc010f5b30.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\bcb447c9-5d37-414f-a513-d7076b04a532.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\bdb5d571-27bc-4a42-ae45-aa5a9af40a81.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\be779f52-0bfa-4c01-a16f-b7f0bc92ed7c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\bf002a25-6535-4621-be19-56d468be5413.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c22f7031-9cf8-48ce-b03b-1b12d0db4951.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c244166d-12ca-445f-9ed9-a13d9caa412f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c2ec116f-f091-422c-926c-70b548a8f6ef.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c35ee701-fde2-46b5-b178-1fe3f1ea7da2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c415532c-4cce-4580-9fcd-623c172a1abd.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c442e2d6-aaf9-417a-9905-4737a1115f33.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c4c7ed75-dbdf-4bb6-b6ba-718903cf7264.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c4d34e35-4db2-41de-ba77-1a94aa9ef788.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c5084fb8-2b62-464c-8a77-1a07ea653266.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c680004e-6ee2-43d7-877c-edc9b5ebeecc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c691c8ef-d3c7-47b6-a941-f6a1089f21a9.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c742ee2c-6814-46cd-af56-ae87bb9972f4.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c7c1b873-0548-4a73-9618-f60912e164df.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c84edeb4-311c-4e82-88f9-ae0505b3ad13.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c94827ce-d619-4705-a68a-df63a2c95ffa.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c956e531-6805-4fe1-b61c-8b96a9815a77.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\c9ad92d4-b408-4506-916e-def47b2e6ed0.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ca5e6a15-ba65-48ea-8913-2d986e71bf3a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ca734448-0d52-42fa-b41c-17b2939e58ae.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\caeb2d62-1166-43f0-8eac-5b8fc48f02eb.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\cd2774a0-dab2-4d68-aae9-7568b9f3d2a6.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\cf90d82f-2814-4fb7-a3ff-a86b7c5efca7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d0347b49-8f98-4632-a384-1a4f57ac6374.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d1144956-5a0c-4bd2-b67d-8498c82d6a12.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d12c5f45-6b20-46d6-a66f-c5a4683c25b3.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d1924af6-7512-4ccc-9c6b-adbbaa8db41f.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d3dcdf92-9328-4796-adf4-918646877ba1.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d79b4e90-c45d-4f5d-a498-49c3e323c291.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d7c7eb2c-2acd-4f86-8a5a-09ab3dd02d16.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d8632217-ec33-4d0a-98e6-427824c58869.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\d9c9479e-f1ea-4d6e-861f-843ff9a90d19.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\da111ca5-520f-4ea8-97ad-ae5fce58ee91.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\daea4860-a296-4f6d-acef-996ab0882676.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\dbdfad64-110c-421f-a1c7-f68fd9e82d67.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\dc6ac71b-2616-431e-bfd5-4c38139e4ddd.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\dcb21739-3c36-459d-b3cc-1be5871d6fe7.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\dd090806-e4ac-4a78-b2ee-55a30626369c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\de5d19b7-e670-4ac7-843b-7ce7bcebdf45.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\deaa1931-5f97-45bf-8c00-be6ddeb37b9a.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e0ef520d-7b65-485d-9888-e6859f189f70.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e11515b4-9527-4c23-a0ba-43719bacca0d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e13f2327-fbf4-4d84-a8c1-09cb1e449c8c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e16c0dab-780d-4035-872e-1bb91e49f9d2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e1937e32-85d5-4cd8-bb4a-b9cf8ee7ceeb.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e36cb882-c6d0-4467-812e-d18c169a9a47.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e3e9c2de-0a24-4c7e-8a69-3d3093d5bdab.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e4827c85-311a-4df1-89c2-99dad0c3558c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e4eea7ea-8989-46a9-9c98-25a178146b28.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e61e6af2-7f8b-47b0-bbe7-acb2ed0299ab.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e683144c-0465-43a2-86b1-3cf52599d5e0.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e726dac6-f962-449c-acff-4dd56847b685.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e79bd81b-f878-4bee-9be2-d91a722c031e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e81bf478-27ff-458c-ac30-9e1f8480bc5c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\e98ea067-82b5-4a0d-87bf-b4bbdc10ddab.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\eb0173a3-7e5e-4f53-8124-03d9d6317844.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\eb5f4f2f-2275-4a80-84a5-78a1eaf4ce4d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\eb86033f-4f1c-4e8c-ae84-e8e4c7e08626.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ebfd9f67-138e-49f0-9cef-a0352069eedb.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ec60ab26-3343-4c5f-9667-cdae999c7d86.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\edcb4d77-a4d3-465d-9b59-eb3087766b1c.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ef1419e0-3a3a-458a-b3b2-7efddac50404.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ef815e3a-02a6-4cf8-9262-45bc74c50b00.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ef83ed4c-2724-4d5f-8abe-1a18d25cea35.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f05ffdca-dc3a-47bd-a231-2a0d9bd1d50e.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f2574be3-81c6-4fc3-8a40-0230d1264f52.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f4c2b43f-a2e7-4746-8034-0b34aebba8ee.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f5869ba8-6253-426b-93f3-82af59a86144.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f5c51193-8a27-4ef3-83ad-771395d63caf.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f632981c-1330-4078-8a12-691beb2dab02.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f6f8a69a-3fd2-4684-ac77-3e83ea0fb36d.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f77d7469-d083-4c2d-a4ea-5a9ff162e3e2.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f8b14fc4-dd6b-4ad0-a96d-c62845f48681.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\f939782b-f5a2-40a3-9c22-6c6d7e18edc3.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\fa1f9f89-cecb-4972-842c-d14c632f89a9.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\fb05b297-180a-4171-b633-09d5616d7534.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\fc8df086-39e0-43f8-b0c7-2d23a349539b.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\fd1c4c7a-24bc-43f2-b84f-fee182207aee.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\fe691faa-3bc7-475e-b558-aa8fe7b795bc.png
+malaria train trophozoite ..\data\raw\malaria\train\trophozoite\ffb7be9a-65df-4f0b-99ae-cfd34e81cd34.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\04de27ff-0d36-4da3-a829-e93851d76981.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\406e05f0-4444-414c-bb40-f4cb08e75ac9.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\43bc935a-f655-45e1-a64d-fcb8b78267a6.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\78ac1e98-7062-4e27-8d58-25c392cae889.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\7db1373d-5bbf-47e6-ab40-30cba7678745.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\a63fa2c7-3ec8-4bb7-bde6-a39e09d2f806.png
+malaria   val  gametocyte    ..\data\raw\malaria\val\gametocyte\c8fd1336-dd0a-4f97-abbf-be2c18b91e02.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\0154dd8e-72f8-4d78-a4dd-93e139577bd1.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\0546d843-d778-4aca-b8b5-bfe23d7c87da.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\13099edb-35d9-438f-b093-2cf2ebf9d255.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\21417261-475a-456f-b03f-57ac85a6e106.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\39cc33be-d752-40fe-b7a8-2e69a3517205.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\4d8a4ce8-0f9c-4f21-8844-4cf0e5514bbf.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\5836500a-221e-40ca-a8be-caaa37f7d300.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\584d62ed-4329-45dd-94ce-e929d8b2bb74.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\5c037ffc-f515-48b3-b231-c110fbd2b8ca.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\5ccca8ee-abea-458a-a891-bedd31c3ddc3.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\6dfafdf1-f588-4e80-8cf8-0126e1bf7af9.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\8cca114a-ed05-4b87-95b7-fae02487f08c.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\b3058064-d817-47dd-a8c4-cdb1f62374f8.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\c4494d4f-732f-431a-8a9d-62403f0b74fe.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\d532e31c-10ce-4313-9a36-bd5e01230254.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\da49db57-0c2f-4213-b322-c88c19fb9296.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\dedbb10c-43f1-45fb-bb40-3ce2fb874015.png
+malaria   val        ring          ..\data\raw\malaria\val\ring\eb6e8684-b84e-483d-b835-f59286d2516b.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\27388ff2-4000-4c9a-a2e3-addc448a5f92.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\32a1ea24-b6b7-4253-ad3e-bdf99c2c9b9d.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\3612aa3b-2906-44a6-9c80-6144511a35ce.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\5939f341-a886-4f63-ae87-2219d000a1d4.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\68442532-9cd2-4b42-9d4f-ddf8c13bb38c.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\6fd30823-3b77-40c9-ba5d-e1eda9660674.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\834a30bb-26bf-4e60-9ea1-3250b926892e.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\a85cd1ae-0c94-4387-8305-84ab8d96d137.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\b234b6ea-b54d-470c-8461-ba7f4a024796.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\bf20d04d-ff8a-4910-91d7-94054c267d1b.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\cc275c45-7511-4070-84af-10b8ffebda53.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\de0321fa-6f7d-4dd1-b96b-186701c3b1d9.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\e0e6b676-c39c-4542-8adf-de257a8e92e2.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\e3a4b3e7-9500-4b6c-a402-b6d3f45e714b.png
+malaria   val    schizont      ..\data\raw\malaria\val\schizont\e3ade58d-086c-47fa-9120-76beacb45395.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\0a7bfa8a-ee52-4f7a-b9c5-2919ecfa93ef.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\0ab56f9a-846d-49e2-a617-c6cc477fdfad.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\1574565f-f45b-4160-947e-25ce1a81aaca.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\1b7f47fc-26cd-4273-b848-88a7cbfd9f85.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\1e86933d-6a5a-4a3c-a0f2-ca22afd767b3.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\1f8f08ea-b5b3-4f68-94d4-3cc071b7dce8.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\20d4f65e-6c63-433a-935c-d568d577967b.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\252071ac-e9f2-41d2-abbb-87ef01b8a997.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\266180ed-77a3-4284-8292-50a49fc47fce.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\2aeb7b85-7df9-4a63-8d37-2eecaaa190e7.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\2c4d72f1-71a6-4bf1-b5d9-8023c7bbec74.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\3859deaf-6ae1-49a3-9051-898d0f0d7de6.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\4372709c-f356-4906-be17-415384d916e8.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\4849866a-73a2-4fcf-a407-2d0a25a09a89.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\4903d9c7-de88-426a-b42d-a7e797e5ebcd.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\50715879-2300-4dba-8f4a-3314ff8cfcce.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\550cf4ce-b641-44a3-8487-3e16d4049187.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\58594235-0d32-4a4e-91cd-4c800eaaaa73.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\58ced55c-bf0d-4204-b6b2-4f8992d92779.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\5e974892-0ebe-4037-8427-ea8616d6d3b8.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\5f300fd1-7eec-41ac-bbd1-0f4a943c757c.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\5f742392-278d-461c-a848-08def2c28878.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\61575482-91e1-4db9-83c7-687b7ddbbfc4.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\640c4a52-3742-4f57-aee3-9e3dc0887622.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\672e4ecf-a56b-462e-b83b-76f4efaa6634.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\6b5ed184-cb15-4d54-93bb-9a3ca00184a1.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\6c20abb2-c4bb-4de0-8774-03f4d30ce93d.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\71925778-a26e-483e-a07c-f3aaf740122a.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\729a38d6-66db-48e5-a00d-7d90d224290f.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\7c1cd7c7-7452-4428-a98e-dd7675c8ddea.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\7fdc8be8-7579-4a5c-b369-8a07ee0a8b7d.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\801296d9-3403-426f-859e-5c532858e025.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\8ad7ba46-5db8-4ba9-b3e0-3cac52f7efc3.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\8e0dfc1f-e3eb-4a3f-a1c4-249bdfbfaa27.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\939ad732-d7c5-4339-b087-4335b49d6a3c.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\9842445c-5899-4189-9f2e-3a3a179fdad3.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\997eabd9-55bf-4683-83c4-4cee4673a4ef.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\a3c0a876-be12-4ede-8aed-18b32a64401b.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\a7f1bbb1-6058-4642-bd66-cfb90dce762e.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\a89cace5-c818-4f23-a432-052b3433b81e.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\b2e34f5f-904e-4473-9dc7-c6bc1ce12640.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\b318889c-3c60-477c-b8f6-d18cb01a59df.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\b3606d0e-6fe5-478a-bb4b-64d7c4889d86.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\b701b5c5-b922-4315-b12a-aac4ec65ee8b.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\b91b1641-ee06-44d8-94cc-24cdb583cc37.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\bbaa004f-05dc-4cb8-8768-e148085bb0f9.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\cb08956d-dd6a-4e13-817b-40a0a93068f1.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\cbb58718-6319-48db-b84b-78ac9b12ff89.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\d1b48634-9ad5-46e8-b816-42d1d97c93cd.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\d5009906-bce1-4353-90b4-f4c79362f4cf.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\d82c657e-5678-41da-9a6e-3ad29430b759.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\dca685a8-a609-45d8-93d7-da1e4165b9bd.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\e0ff3476-226f-4125-b182-8e524d5503dd.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\f0fe292d-85ae-4c3a-a676-037dde2594e6.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\f62d4fb6-df7c-446c-94a8-d5aede0b1e0c.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\f68ae8e9-e760-4106-88e0-4bdef2785f06.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\fc15659f-6264-4dd5-ab17-43d89fb297b9.png
+malaria   val trophozoite   ..\data\raw\malaria\val\trophozoite\ff3b9d4d-373c-48ef-a75a-d23e2c2ade87.png
+ orvile  test  gametocyte    ..\data\raw\orvile\test\gametocyte\96957ec3-de17-41cf-855b-1388814e5918.jpg
+ orvile  test  gametocyte    ..\data\raw\orvile\test\gametocyte\a1265844-329c-4a49-a37f-e0541b83a50c.jpg
+ orvile  test  gametocyte    ..\data\raw\orvile\test\gametocyte\bdfbad30-fa2f-4285-bf02-6064ab6d869c.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\0346611b-ea43-45bd-9f16-c6e8086273d2.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\03be08c8-2cf3-4de6-8ac6-5f7817a6a643.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\0897f682-5301-49fc-a8d5-9df7762040bb.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\15a5849d-8bc7-4e01-938b-c1f55067787d.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\291fe50c-2134-4708-bfa4-09b36ffea123.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\3147f1e4-6fc4-4eff-a9dd-ddeee5e2de13.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\34f334e6-a163-4af7-a1ed-51a7ef15934a.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\37df4ffb-f268-4557-94d6-bf68d005feae.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\3e03b313-66eb-471f-a97a-7b2bf20dcff5.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\408745a6-79fb-4804-9c24-e2d6673f8f2e.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\47112c6b-aaf6-488d-8f3b-f9ed0cce9a95.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\4dcd5df9-c56c-471b-8d44-fa4b1ca9a600.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\5a2447bf-a92b-4a47-a384-4b2ff020ecdc.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\6040cf0d-9dd6-4798-9406-1afbbcd24d4c.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\604478c7-1259-441a-8ad0-7059e191c9e4.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\64985a1e-16bb-4016-a01c-c21a5b86e572.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\6e20a860-1f9a-4a74-b167-4c6a79bd8778.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\74bf1267-d98b-4532-a81d-9d8df63e0f75.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\78ae52cf-8dad-4070-a40e-9af02faec1f0.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\7d16d1e8-4abf-46fc-81bc-d71bd08ed6f2.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\8874ea02-d263-4830-99d1-e1b14230a56b.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\887cc81a-bae3-4360-a115-23ae05ac3a4f.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\8db76867-671a-4488-a7b6-991e4dd2e05f.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\8e1e0fd3-52fb-4ebb-82de-67bbd66fcf4d.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\91fd0c2e-8e9c-452d-97ab-304b05a049b3.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\96287315-87a1-4045-9e16-119e045bf12a.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\9cf0b006-cb5c-47e7-b076-1dcacf1fbfb1.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\9fd32265-07f2-442b-80b5-35069891d452.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\a3548f89-1cb5-4e67-b460-482df95b10ee.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\aa57ec7c-8f35-4990-a790-62efc9df8fe8.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\b47c1011-0cc6-400d-9300-1c72f873a6e5.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\b6fe541f-3be2-41a8-8124-757fc1ad875e.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\b9025f55-789d-4acb-9c0a-34e877c95c5c.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\bc820fb6-5ba8-4438-affe-e250d2ad5eb0.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\bd4da4f8-8996-47e0-a4e5-a3da5717441e.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\bfbf234a-cbc4-4d00-ab7f-9043d1304b41.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\c3631a04-b757-407b-8e7e-1ed3a6c463d4.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\d1394e1a-dedd-4458-a024-044dae2cd69d.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\da2197c7-7911-4be6-8bb9-164f47fd270a.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\e26b88c6-5884-4b5c-94d7-ad780379c8ad.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\e6a7743e-4040-40fa-b097-ca6874c469b7.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\e93e617e-ed36-43d9-bd1a-4ffd2fba64e9.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\ef55f2ac-5a04-4986-99ab-0d2b5052ab3e.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\f070a212-e4e2-4743-804c-80789a36f495.jpg
+ orvile  test        ring          ..\data\raw\orvile\test\ring\f08e873b-9617-42b3-9c7a-55d0e39c2663.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\0864c569-2ad7-48ed-b12a-e40aa5b93756.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\31c62771-4e90-4038-9abc-d196beda9898.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\3ce76f1d-636a-48b9-b0e3-fc7eb791a169.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\8e22f8cc-b6ef-48cb-a06d-a44cb1fb5f2f.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\a612e0d5-6a95-43cc-96a6-6fbcb8d45ff4.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\abb72ce2-4193-4dd3-a34c-61c2ee22ccff.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\b1d312cf-1f52-4955-bf42-58d3664c254a.jpg
+ orvile  test    schizont      ..\data\raw\orvile\test\schizont\c6807595-100a-4aa1-a5f6-882a20ca3d32.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\087602a2-288b-4a4d-b01a-524f0d799d89.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\0a3b53c7-e7ab-4135-80aa-fd2079d727d6.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\15625643-d964-4b14-9839-c126384ae35b.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\1e647046-333b-4102-a0c6-4c29405c37b3.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\21116b9d-e6be-483f-8394-e74622b2e182.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\23e581e7-0fb7-42ff-ba55-a86beefc0619.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\25865b39-56fb-409a-8800-3d368dd264ed.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\2c03b3c9-7786-4e1b-ac2b-c98e9f8358f2.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\34950f4e-fe44-49ec-9d49-14bd4a8ce7c0.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\351d6536-3a5c-46eb-a6e4-d71dd999908a.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\41be1bd3-0d31-4881-bf1f-3ccdfa21ff12.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\4da8f6c5-5f85-4280-92d0-1ba008e8c404.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\511b6e13-acd7-4dd3-b1d0-c4aa10a514c7.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\51a42643-256f-463a-bf22-7fd295caead0.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\51c6bc6b-4f37-4ce3-b624-840b27c1584a.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\51f6463c-1622-4c0d-8482-b864e0ed2e74.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\55078c19-bfaf-4988-a779-767e1c6d22f6.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\5c399ab9-492c-4bfc-a452-83aba574a3bc.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\623982a0-1f73-4246-92cb-28f7c219efaf.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\6d9a2241-2cce-42b3-a11d-a3a6b432dd89.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\738b7be5-59b5-4d8c-8769-cbf2385b9fc7.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\8111cff9-4c04-448e-990b-9d5010f7be56.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\8298aca0-5099-4d45-88ca-ec8ac7922e77.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\96afe167-6a2f-4770-aa74-e083fbd5e926.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\a5c8bf78-61e2-492d-bae5-0ffeea81212b.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\baab0701-3fd4-4940-8b90-b9c42d95888f.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\c8d1b7ec-be9f-4c88-a39b-2c6bf46b2998.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\cc453255-b583-425e-bc3e-284ccf120944.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\cea1cd9b-9b03-407b-ad8d-348155567dab.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\d9255d7f-1282-442d-b152-73d7388526f9.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\d9ecacb0-14c7-4862-930b-18bb51d5f392.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\dea9006d-c360-4118-b77b-8bc959fa5f8a.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\deab75c9-00bc-488c-8b20-ff4515d85212.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\df4fd610-fa16-45ca-b3a3-a25a14e5c4e9.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\edea6ca9-3d52-4b4f-bec3-93799b1c26e3.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\efb85f8e-c780-4a19-b6ce-555a154b0d10.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\f0ee03d6-c57b-43a0-8812-359330bdb93a.jpg
+ orvile  test trophozoite   ..\data\raw\orvile\test\trophozoite\f8ebe0c8-a90d-4a64-9f6a-f9985e38c340.jpg
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\027ab174-e47a-44f8-b85b-372449eeb7d8.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\04c07425-57c7-415c-a0bc-36857bbd4049.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\089c9744-f906-41d8-908d-1e37919a8658.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\14005767-9296-4b48-8a9d-bbe9b2040005.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\24879caf-a327-464c-9cd9-e0f3d9161079.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\25cfca07-2101-484f-b312-a927395f2651.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\2dbf6f69-e020-4948-9e49-4b33edb7cebd.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\3061aac0-cda3-47d1-8c48-6293e9ffdf36.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\318de807-7232-4ab1-843e-a901547c0125.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\46f5bd4f-8bea-48d1-a1da-4dea28e3b814.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\4aad9589-6b32-4522-bcd7-ca04687a02ca.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\4c460388-e0c1-4970-8527-c9e5b42bea49.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\4ce5a070-9ede-4bb1-9ca2-1bae5746776b.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\5893e081-04f2-4e33-9851-bed5f0e4d333.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\5a043d69-f435-46d4-8691-395c1602a76a.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\67f5ca94-d84e-490e-bf0d-4ffba7bdbe30.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\69569ecf-cfa1-4ddd-9342-b22c23387fdb.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\6bb4892c-27a9-4642-aba1-4b73f38f757c.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\6fb707b1-5c07-479f-8385-5404bf5747b0.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\75660b56-51c2-45a9-9c15-e18d12a3af8c.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\867f30da-2568-4480-9968-cece78c61c64.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\8a4aadac-cf5c-4a79-b875-271b3fbfd230.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\8e69098c-fae0-47a3-8833-c2bfdfb1a416.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\8f96ee1f-4ef7-4279-a610-316319bedcf9.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\9147a21d-0de2-4c04-88da-b788311696ac.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\9258fe22-6406-4d00-b6f0-3f9492925405.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\9a25f103-1683-47d1-8b07-ac20fe0b3ee9.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\b197093e-2928-46a4-8e35-fa5ea7ea6dac.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\b2f05937-b965-4c4b-b86e-f50e95d9d691.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\b618e87e-6059-496f-b0f6-e158f676a1fb.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\b834cbf7-ff97-49d9-9561-566c9343735c.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\b8410821-a42b-47d0-8bcf-c2fc82e4e2d5.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\b9de8b1a-f96a-4eb5-bc05-84ad43a054f3.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\bbf687b5-c6f9-4821-b2e5-a25df1acba47.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\c10b125d-10c2-474a-9c6a-5249935c638e.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\c649e1cb-4029-4433-b231-d67d68f7391a.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\c6d97845-8ad2-4ab7-b385-66613628df5b.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\cdb086a8-2bf8-4436-b1ef-96cdd801f247.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\d31dd2c0-ae8e-4499-86bb-7cabb6e438b9.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\dc4270fb-e5c2-414f-96e9-6769ba1d77e4.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\df49578a-60d4-4a3b-9ee0-79d9d59bc72a.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\eeb06e39-482b-443d-8cf6-b9b5c763df78.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\f20a4fcf-ea8e-4c14-883d-d26a9e08ce25.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\f24c8fe0-a534-44cf-9995-b2b314d945ba.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\f329e01b-fbd3-4fb5-9738-a7ff4c8622b8.png
+ orvile train  gametocyte   ..\data\raw\orvile\train\gametocyte\f3d84be2-8af0-4d62-9f72-23d3dc08cbbe.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\00c8364b-8c85-4502-bcfe-64736fe76815.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\035f6c4b-0897-46ab-9c3b-5f3b0feff043.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\036404d1-b9fc-497b-bbe1-f4d9c5ac3ce0.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\04fb49a2-07b8-4cdf-b6f7-df5c3688e5f8.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\05717db9-f1ef-4101-a9f7-7a007e83b1c9.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\09ecf7be-28e2-4531-b9e2-07e01c44097d.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\0b04ec46-5119-4cda-8c35-c4e5b6f0eed0.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\0ceb4539-5c4c-487d-9826-452a88b5d537.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\0ed416f9-7c20-4829-9016-559e4009568e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\0f0c949e-018a-4f3f-ab02-3704f49c7754.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\1380f9b4-bf54-4492-90c3-743c7aa8898b.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\143f5959-5b6d-4f95-bcee-9e110450fc22.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\184b376b-03cb-4c2d-af51-fc1a62196293.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\1863da5f-c595-4541-a8f4-21fe78678168.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\18dbe7c4-89d2-42a6-a969-1e951ab313b1.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\1976cd04-d24f-457c-b423-7e4cdb05de9e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\1d4cdf2e-79a0-41e9-aabe-e437a190dfc4.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\244ac6fa-8a92-4214-9cf4-ae0811d9ec7e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\2cc3c4ad-670f-41b6-8910-0704cbc192ef.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\2e8d6a43-0110-4bf4-8e70-20567e513b81.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\2fdbd9bc-bbaf-44c2-b40c-d193709639fa.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\30167dc1-f739-4036-b5c4-5fad435c2c67.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\361a3578-4cbb-422b-9e3c-b5e61395b12e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\367663b2-5d09-4020-ab0a-c2200e7a1c8c.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\3911fcd2-4e26-4ad9-aaf0-d1c5bf41defc.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\393df10a-5d64-476b-88f5-14ac56d6ed60.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\3b5a8060-dec6-4a83-b7f2-b604e4e69dfc.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\3de03fa2-3ad3-43fc-8435-b2a80bdd7550.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\4411fea2-d785-4eeb-80c6-c739ab6114c4.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\452482bc-24a3-413e-ba03-fad4c9d61f3c.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\45902b63-be9a-49ae-9ede-3a8015671bc4.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\477e541c-0519-4542-9b13-8ee7922644d3.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\5487faad-24a7-46b6-92d8-479d3a8d229f.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\55836297-fc8e-4e00-9767-0d12b86e4604.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\56fbae44-4677-47f8-9c3a-22dac043c115.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\580210c2-a8ed-4720-b71c-a77945968abc.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\587e5464-d70b-4279-8562-010279f6efbd.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\5a105b89-c592-4d78-b208-7db6c6572752.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\6231d81d-9e84-4a5a-8cb8-47c6a37a0176.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\6303f964-98ef-47c6-bb2d-283aa393f918.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\63055d1b-5221-4c80-8b39-37ac069a1b5c.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\6347dd6a-cfdf-4cb5-bc50-cff5403cfecb.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\6382976c-ee87-4916-b798-4ef1373b2df0.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\63ed5931-d93e-4f9b-a6f3-152713cb560e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\6795acae-e84d-4e97-b9a1-b4f4f0a72cfd.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\6d91d1f0-636b-4f5a-a526-7c17fc857190.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\76dbce7f-dc3e-4a29-b1fe-ab9dce583080.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\78c35732-7e31-4153-842e-55ab1cd656f6.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\79b3a64f-2fb9-46e0-85d4-2bdd59c2075e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\79f63258-24ce-4e69-a5cb-8529635a89a9.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\7c66d2fd-68ee-4628-b860-9d7ad25b2a80.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\7d4c2160-317f-48d1-a60a-788ec300b3e8.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\81fed4a1-9d48-4938-90c9-c8bf3f5e6b1f.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\83ec8923-6232-40d7-ba1f-a1b8bf7cb66c.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\84ee2ea3-9edd-4672-a1b3-f09c607d833a.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\861c3e06-aada-47a0-99ae-94fbc2772cc0.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\8757be1e-b832-407a-8e95-62abae485b24.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\89b3d781-2f81-4d23-bed4-84da064df7f3.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\8bd71314-e38a-4670-bb25-5cd6c9acb595.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\948c94ad-395c-41f4-9a68-8a1dcb76888c.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\96596a68-8c95-43f3-b74e-e9506c235144.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\98175327-da9e-4e0c-8912-ee68490a4672.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\98efca97-37d2-4459-aca6-375ecc0c4539.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\9cdee92c-6267-4188-a41e-125bc0abb9ae.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\9e74feb8-017d-4d53-8896-9ebda4327dd1.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\a0eedcb9-b85c-4612-b945-7e8227f53c35.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\a302a6fa-f635-4ade-b72b-b6f3c2a34ec9.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\a4851ed0-1499-4eae-9157-dcd34773254f.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\a6f8a029-44ee-4fe3-b807-38d137347729.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\a7688988-2bcc-4458-83d3-5e482da5f87b.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\a9feccda-18f2-405e-9aa1-409fa1f49fe4.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\ac3358f1-ef9a-4ccc-b66c-da5e47e352e0.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\ad36bd67-594b-4f63-93e3-886af0bc618e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\ae17a099-18b5-4a42-a901-850ea056423e.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\afa470d9-c74c-41cd-b4dc-7bf93fde8263.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\b34e65f6-c32e-42f1-a437-4a037c75a231.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\b4bde4e8-f48b-4ae2-be01-86d8c91d0af9.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\b4e5e08d-6427-46f3-aca8-a4df165a151d.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\b6573be3-9e04-49c3-9f48-6a145d065363.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\c776eb78-3323-4571-b39f-7ffc73ae63ce.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\cc882eae-a341-4783-bd19-8bdedf798538.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\d3283f5b-3b3a-40ea-800b-79960ca851cb.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\d64cd75a-df26-44d5-ac25-69061a4e4d57.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\d6942996-5664-4370-ad87-2bdcbd49ac16.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\d8f7e159-b7e3-49e4-86e8-aed8c5fbcd97.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\dacf7e3f-1d8c-42a0-8539-3abe3971c956.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\db7c5ec1-fefe-4e9d-83c1-da8fb982f1e2.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\df3d98b9-3dd7-4107-8d4a-ae1b7f247793.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\dfac6c92-8f0f-429a-8caf-9b7732bf78da.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\dfc026a9-079f-4f45-8666-e0ccba5bb437.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\e3ea07d7-884a-412e-874a-40fd6b856736.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\e597f7ce-46c6-4dce-9063-50a2703fdd45.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\eaf4b781-b3aa-41ce-8c5e-287979b4e15a.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\eb77e4a9-acb0-4d83-8055-2c5fcaa54b45.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\ed0bee2f-05e0-4392-8357-19750cec577c.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\eef2ac0b-42de-4bc3-a3c3-d5fcd597fbe4.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\effd6334-516f-4d48-9f3c-5272a99780fb.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\f09acb0c-b270-4e91-99f8-410adfa7f34a.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\f5419bc0-4415-41b6-b832-5326cfcc534b.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\f7cced00-9b41-45ec-9fdf-fb9e1a74da90.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\f8a8b148-60e4-4a5c-ae19-941b19ec0846.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\f91670db-be74-474c-bd72-68120aed4756.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\fbcb2ef0-3c97-4d7a-8b96-0147c73f3941.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\fd1302e2-3cd2-4a1a-9c13-00f810a9c41b.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\fe00fa09-d3c8-485b-9d0f-3cce556c9edd.png
+ orvile train        ring         ..\data\raw\orvile\train\ring\fe0c5e48-f65e-488c-9c3c-1ea7c7835c0c.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\003a89b0-a095-417a-8dd6-f408339bbc68.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\02ea7aa8-c142-4a3d-939f-e77689741341.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\02fb5e19-6f94-4787-bb78-e550a29a3cbd.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\04628a94-b674-469b-aff6-b476b70df87d.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\04de3a31-fc09-40be-9c2c-9830c57f809d.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\064b84fe-bd21-4c27-b682-0a832272eac4.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\07346d2e-a6e6-4dc0-95f1-9f7d8d7e3f66.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\0901f9d1-be4f-4c19-8e83-dd724dded9f5.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\09bcedaa-e007-4692-a13f-ab02c3f872c4.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\0d2aba33-6920-4001-bd54-59fe0bf9f50e.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\0da07970-3146-479c-8a07-f61ed32814a9.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\0f2a6cda-afec-437b-8803-8d3176b072c1.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\109fbb82-bc3c-41ac-984d-e2da86202873.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\1345dc89-a3d9-4b71-8a75-b3bff01ba518.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\157ac97a-396e-4f6c-94c6-72a4d06ccc5f.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\16a51468-9f93-45df-9ae2-5a74c25c5a4b.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\177f883a-f0f1-4b8e-b598-2ca4bab27381.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\17c06a23-bb77-49cb-9ffb-fbfc75fcc715.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\1d4f06e1-9c9b-487e-84cd-e7e50cc754da.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\1dd3e6dd-343f-4cc9-b0ed-e4d27fb36f0a.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\21cc498b-8cb2-42ed-8f80-bfa27b86ef11.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\2559636b-f01a-4414-93da-210c3b12d153.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\261562a8-ffd8-4e0e-919b-22e267000b74.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\26799d2b-a289-4eff-9218-0aad77e05e41.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\28c96a4a-4549-4761-99e4-ace4ea7e7ac9.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\30948737-0d0d-4b68-b9ab-50577e0fe026.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\37e072a6-000d-4773-8d9f-d66b60ace668.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\397f37bc-a3a4-4257-9430-c8fc5716f8b1.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\3b601a1b-26d8-4873-afcf-fdd1b1e0010c.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\45ac9409-5537-44ed-90cd-5c8a1ae0e1e0.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\461a3ed6-039f-4a70-97cf-c474ecf51ccd.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\4767bfcc-fe87-4962-8c40-6ce8d9363cdf.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\4811fdf2-d7e8-475e-a840-45dda5282bf3.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\4fac16e1-8e62-499b-a66b-c4c890372914.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\5077f87d-a19f-494c-b911-14ccb03bd230.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\516bf1d5-5d00-4985-926c-3993e9bc3ff5.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\5397d8e2-bb09-42e7-9861-65ffad0fe94e.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\555c6ea2-c76c-4e71-af57-855d940c2b37.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\6388e241-09a2-4fbe-a712-07d8fe714c51.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\65054b19-5c6a-4870-99a9-eef994721d3a.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\66557580-fd38-4d4b-80d8-88611ecc78c6.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\6b14c855-8561-417c-97a4-63fa552842fd.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\6b2ff7ca-c5b3-415c-9481-7b14efc6d7ef.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\6e39fb0a-aa41-4b16-b783-7589e97bf289.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\6e7ed596-1b76-4998-8147-a846d53d91c5.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\6f4ffe7b-395f-41ea-ad61-df5e0cbd531c.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\71cf2467-77d3-4fac-ac6e-1d8767717c34.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\75579b27-8191-4044-859b-268be969c42b.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\755e5bf8-e8e1-492b-a32f-f7d87cccaa40.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\79806898-0214-44bd-ba2c-b570e911be62.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\7d65d296-0f7b-41cc-9073-a547e24326c8.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\820bbfea-3dae-46fc-b61a-3d0ed2ea01c2.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\833b1d3e-d389-4d0f-8638-6aca5b89f917.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\883d9731-a04d-4f84-83c9-d3bef954759d.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\90a82250-1f68-48c9-9af9-15f18bf8c974.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\91827f1a-9b04-4ef0-972c-12e90e60c516.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\947348fe-4c70-468e-8009-3c14daeca69b.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\95d5e689-c1d1-4ae8-a659-cc20c62a99f0.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\9691c57a-ccf8-47f9-a8e9-9a324974585b.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\9bd40bc6-4949-42d3-b38f-d60422932f65.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\9e793460-d94c-47ac-b3a7-0d6ad86357da.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\9ecf2006-8d49-4ae8-a14b-ed8b3b14ee7c.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\a2d07312-2f97-40d2-8b09-7f2aca7b16fb.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\a3ada657-de00-44db-b1e2-54ba17e39983.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\a6ba808f-ec60-42a5-ad91-7b32412ab708.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\acdc6e12-73d9-44ba-be8c-2a56aaffef4f.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\afbb264e-ff60-443a-83f5-49d09be1b835.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\b12ae3b1-613c-4c0e-9163-3c5cc314abf5.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\b8dd6125-5027-47e2-a283-14e199274c80.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\b901c906-91be-48c4-88ec-2c527544a258.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\bb337c84-f727-42a5-9c3d-934323a16c6a.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\bc832bde-d3ea-4a8e-be90-7a3329dcc314.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\c0c3041f-78cd-46de-8e36-0a7dad0c04c4.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\c118ff18-f9f2-4617-bddb-dc4091fb8f5f.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\c1423156-82b3-4dd3-8e74-08eb7ed8e1d6.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\c147584d-4c61-412a-bdaf-b02b22c18708.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\c3042130-a6e2-458f-9fde-bb012f68f5f2.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\d1617cf7-eb56-42ee-85af-66c4748753c0.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\d47cd049-d78b-4ba3-a7d4-399be4dd1dde.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\d6352a03-ef81-421d-915e-226499555d20.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\d997337e-e4a8-4ef0-b8ba-975e6c43b62c.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\de00f9a5-aa8b-4679-8ec6-85528a942d6f.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f1f9df6d-c4cb-4b42-9ca2-8fb47b1b0e91.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f232eec3-02c0-43f9-bf32-3e60245397e2.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f25a2ac8-cb6e-4e05-a0cd-cc00ac47718a.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f4722a74-35e7-42bd-8ef6-dfff04b9cd22.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f4a27dfd-4c52-459f-96b5-ee6b452a3395.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f81806a8-5883-446c-be78-f0145b12dbdd.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\f8242b97-b8d5-48b5-b808-0b0f75a5de97.png
+ orvile train    schizont     ..\data\raw\orvile\train\schizont\fbb1b44c-d75a-4550-a6c0-0eb62b96bfce.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\00d04a90-80e5-4bce-9511-1b64eabb7a47.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\01b38a56-13eb-447b-89ee-fc21cb40dcc1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\01b99da8-b66b-464b-a7ee-1cadab8db18b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\034c8d57-04d5-4786-93a4-6ae8fde2c258.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\036e008f-07a1-4e92-899d-1822dc390ccb.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\03b9d6ad-39ca-4097-a98b-77f02b3c00a7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\040112be-3c8d-49aa-93f1-522f94a592ff.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\04d21589-b777-43c2-86b5-038cbf8c3a4e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\05ac7b2a-6a77-4464-926b-8570f7c01693.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\06401963-8b02-46c5-ab2a-3d70bd01623f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\065af549-320a-4862-b92a-8ef750d7b5fb.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\06a3effb-996c-4767-afd2-6aa3b697cb4e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\06cd484f-e864-4fee-8819-688b45eed98e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\071901eb-4c3f-404b-a747-3d0b9d0a5158.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\082e1f81-4f49-44ad-b5bb-9dfc155b2ed8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\087f2c9c-188d-43cc-a94c-0eb8f10ac092.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\0906111b-bac7-4541-a6dc-da435c0724a8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\093a831a-bf71-4333-bc06-942ae70cb164.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\0ca25c88-457f-4f03-bbc1-98fb6663f1d1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\0dcca702-a4ef-4fb3-a940-9c0c140b21c7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\0f735cca-051c-4048-a1fa-cb36f389e12f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\0fcd1ebe-ee4a-40a0-b787-29cee18bfa1b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\105af41b-13cc-4ad1-8a1f-8bc4d47cdd94.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\11b72c7b-5c52-44b7-adb7-21eacc25e441.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\1519257c-e3e5-4474-908f-8665b3cf1258.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\151f3af5-5e6e-4bcd-9389-4974fc68813e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\161978c3-3a05-47a5-9fee-be7d25693eae.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\16ec6e1f-5020-40b3-ba26-51c340d03ee7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\1893e0c5-88e9-4644-bd59-3e47bc53a88c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\191071ab-6515-428c-9f05-8e4309542b75.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\194aec70-41a5-4ac3-b22f-0b6eda91f730.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\1c90231b-2830-42d9-884e-7301edb16933.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\1ecb0405-a6e9-4485-819e-2fbbf2b718aa.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\1fdf99d1-a494-4174-bcd7-efbe457ab899.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\1fe1e118-adb8-4b10-a41e-1e5814e8f067.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\205306da-0ed8-475a-ace6-f2f81d4be88a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\214f1d15-a081-476e-992d-6c3a77f03d59.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2196389c-45ec-46b5-bc6c-1f4a33df7f7c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\21a50e4c-b750-46b5-801f-5429ede7dea9.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\22a464ef-c3da-4d56-b37e-e22e95d945e7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\22cbf509-c9bf-46ec-bfce-f079c6b76c8c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2374ae5b-c2df-4db5-afea-c54180aa22e3.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\239f17eb-a2e2-47e9-82e3-fa0d9a70fb9f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\24115f58-a7d6-4022-a95a-86b515a78d3e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\24418314-f7a4-49fc-a03e-ec597ca6796e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2596eb32-1323-41e9-8c0f-64819abcfc73.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\259da25f-40f3-4d37-bca9-a9c807af1547.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\25c6cfb1-01d0-4864-87f9-02b7593683c7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\27cdd837-e40f-491e-8adb-61e493189832.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\29539cb0-1c52-46b2-9302-552f8349dc71.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\29648565-fe28-4517-ba72-68df0c82c9c5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\29d40b60-cde1-45b5-b403-692437a77ac1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2ac343e4-c889-47c1-8fe2-461b626def76.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2b128a1a-95ed-408b-b9f8-8795cc814d80.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2bd15b6e-fe2d-49f3-b394-940d024d1f91.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2bd26501-2fbc-4c1a-bef0-4ad57e02b4d0.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2bed2796-75a9-4d93-bb2d-e3ccbe1a5cbe.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2d0f600d-f94e-4907-b712-52fb37d9ed52.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2f6224be-50d0-4e85-94ef-88315df561b6.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\2f68686f-1fe8-46e7-ad92-a08e3523ea79.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3003252a-2d2e-4687-ad30-9c38d68f1394.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3090a362-1f3d-49e9-a76e-ce76ff9c2276.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\31435107-c77d-42f8-a619-75cba6a5161b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\31653d0f-c4e6-4e12-8005-518c2de34687.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\319c9c52-f316-49f3-baad-4444ab19f85b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\32700bc7-7a86-49d3-aded-ccaaed4ddc5c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3317d733-ec0d-45e6-b631-40457392f343.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\334bf865-e3fb-4200-bd53-d9ff5808ed9f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\340a1727-0df7-4e6f-9c0e-9c5deddbfca2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\345cb914-7583-49df-96e3-3cf19c2ba8f1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\34a70114-d3e3-4351-b8db-f6caab17e743.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\36569710-a574-40be-ad42-897a6e74a128.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\370277f8-436b-4103-8210-b4feb5ab95ea.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3768c577-4e5e-4d70-8c4d-93d8aacd5baa.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3892b776-f49a-4368-b0fa-7e855e76ccec.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\38c69905-8a4f-451a-8d0a-b855dc88dd16.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\38d1b930-dd97-4248-9160-e9389a1a8dd7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\390ad256-e1ed-476a-9f14-2dc34e0da632.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3a8f468f-f9de-46a8-a7c8-f2be239fa207.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3abbc4d3-1d7e-40c9-9963-33732da7cc50.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3cdcb09b-6a8c-43ca-b1d0-c1a289202f65.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3d302619-473d-4c5b-af43-8833ff94233f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3d32a988-449d-4d58-b71f-abbfdc3f2fbc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3dcd4f1b-ce43-4a34-b1ed-076bb42963b1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3e36698f-8c09-4c8b-8948-737310bf97e5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3eba916c-998b-40a7-993c-7ed916c2a04c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3f390b82-8859-4c27-bbfe-d1b242477f63.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\3ff98212-7c2a-46cd-afb7-34a2479bed07.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4272cbd7-5b0a-4bf7-b690-dee1c128f07b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\42845335-4ab2-4963-806d-0985d1382a31.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\42e87148-a015-4148-923a-fb83016f64e7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\441d7843-b20b-4c10-84e3-e6d32621e880.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\45651e76-4bd0-45e5-895b-edec65f51987.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\458cb2e9-5a7f-437c-ac5d-a56f98a3efdf.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\45f18ac0-f097-4b20-a99d-8837cf488822.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\468c261d-f5d8-423f-883e-48af2bbbc5d1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\46a03374-64c7-49ac-81c9-c3d62542bbf3.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\48e2f0bd-2164-40c3-af43-1f2708359978.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\49288109-80e9-4ec8-96d1-26a0166b8883.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4935818a-7e7a-4f44-a3b6-b361d1abfe16.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4a49841f-216c-4815-8140-b8762c4f6603.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4a717a39-80f8-4b75-a25e-c46d65d7dcd5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4ab47131-c2ac-461f-b95c-ac19ce24edbd.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4adcaa26-aa1f-47b5-bdf0-18c9f814f576.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4c13e22e-dfd1-4fa1-b373-be9d0c272c0f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4c7d2382-a962-4237-a053-955eea3decd8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4d0a1598-e4dd-45c4-8a90-dd7c780fe1da.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\4fb83278-adc5-4424-9f45-b6d0db2955b6.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\50f2f514-6c8e-4c79-b3b3-0be56dd0b78b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\51e86aa9-caa0-4297-94e8-34a57d7f7e36.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\52767904-4cdc-4821-ba68-8cd0c28f9023.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\53afd70c-08a7-4b9a-b137-7003b2ecbeab.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\540a5fee-175b-4b92-bf62-1ea9b59c86c6.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\56077789-8580-41b4-89d6-deea227e5c60.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\565513be-2c20-4ee3-94f3-093869515d3d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\56a57a8d-c9b9-432a-a3b0-32a09355806c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\56adbb1e-96a8-40a5-a5a2-243c97ea889b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\57e1879e-4294-45e7-9c1b-627e8cca0271.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\58065a0c-d4c5-40fd-bcdc-037f61788482.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\59542a24-b409-4c95-8608-d9691a741526.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\59dc7da9-35d1-421e-a61b-1e9637bfbfa1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\59f5699f-885f-4004-b783-a60060144e43.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5a631871-2fc7-4a68-9c39-f3b9a0bf4a04.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5bf91ff9-80df-49c0-9c3e-599357d95530.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5c99cd97-39f6-4809-9528-9d380cc16b16.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5cac6ddf-c8c6-45de-bce0-a1db64b14fb5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5e042380-6ef2-496f-8231-0ca550fbfa71.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5e17f8e6-fd8d-426c-b444-1515d14f04b7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\5f2b32bd-fdca-4d6f-b13a-ee9f83626c8d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6144887d-a1c1-46db-91a1-f7ff5bf8c8a5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\627d6331-7bb9-4d1a-b20d-e6541af4d0f9.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\64113b22-03b1-4ab8-89ab-b2f32154fbbd.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\645cd195-af50-409f-8da9-6e7c7f18ea09.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\64a678d4-9048-4491-90c7-1924f38be19a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\64b0e49a-0e48-447d-8872-c1dd255e7a21.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\66183740-e1e5-43c9-8539-a87028bb3621.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\664c570b-4822-413c-9724-11b1d91fac44.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6695a204-e39c-4418-b904-3f080fdbe7e8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\674b0fd3-f247-4b7f-97f7-3e6c57c9ba9e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\67a4fb91-6f38-4ca2-8f20-6b2f5f1b29a7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\69b5b3de-ec64-4e5d-bcc2-44f495e06e76.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6ad3efc9-4392-4cee-98a5-186564a96373.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6b473806-e936-4b19-98cf-a2b94cac35ff.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6b4c79f5-b194-4586-be9f-e339c5af4188.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6bc7b53c-5a98-48ef-a9de-59a476707ea4.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6c3f81d7-5670-46bd-9eaa-9b426413abb7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6e86206f-dafe-4c28-bacc-7b83b2d40f0c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\6f67a66b-56ec-4c36-ae7c-f250d3b86a23.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7029feb3-9ffe-46e4-9883-6a9df84f7b62.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7094c11a-1e62-4f98-894e-d17d138a88e9.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\71204a6d-814e-44b6-9cee-7b979f478021.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\715761a2-745e-4743-9849-956a034ad3c4.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\716273ea-19c4-49af-8604-df587b295eca.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\72088c26-d2dd-4906-b791-b8947fc7fbe4.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\72732579-a812-4496-b2dd-ea1556924337.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\729733ff-a349-4a96-b636-ccabe7d7e167.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\74261741-4d6e-4dba-8ad4-4fbdf919c30f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\749df49e-5212-49ea-9e88-7d66f258f1df.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\76021d69-8919-4688-95ef-7418eff620cc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7624ac36-1cf9-42fb-844d-376078309553.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\76a8a5f5-1328-4539-a131-baf877f40cf3.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\770b8ca4-8377-479b-9ad5-5455ec3b44f8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7942691b-6376-4c75-ae8a-ddf65454dcb2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\79d7a014-21ff-40f1-9ac4-a69839390654.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7beee655-6156-43b8-b185-dbae0eaf7f45.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7c870293-2665-4a6b-a4fa-336959051dfc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7d041c38-11f2-4186-8a24-29d7d0f5c3cf.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7dcc84ce-e8b4-46c8-9506-7c8ebda5da2f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7ef90770-6aeb-45eb-9744-49c5247dde30.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7f528918-27d4-421f-ab57-0cf9c693e697.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\7fd2d254-b062-4f3d-8970-687e73c5a00a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8002cb71-0f25-4fa4-a46f-b49e5aeded0c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\81c3c8f0-d5a9-4dda-afd5-e86f6afd9424.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\81edcae1-65bf-4752-b0e4-494376b71e49.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\85546330-4efd-43e2-87aa-d53a30220bfc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\86495bbf-687b-429c-b9d3-6c2681ade7e2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\882b91b7-5906-4091-bad4-688d4375eeb5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8939e14b-fcdf-48b1-acb9-6514a2fc2fc0.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\89f10192-d3dd-4996-a571-4c851dbdc983.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8a7deb24-d2b4-4acf-86c4-3aadd39157fa.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8be185e7-2a1a-441c-a5c7-b50a9eb926cb.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8cc6fe77-5f2f-4670-b4ac-1b49550241a8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8d02117d-6c71-4e47-b50a-6cc8d5eb1d55.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8d56197c-21d7-4cb6-92df-80637efd129b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8e72e20e-e714-4db6-a1da-c05a409257d4.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\8f84a2c9-ca38-4405-a488-12fcd101278b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\90171428-f208-428a-b40e-f57ee3bea457.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\90246988-0d6d-4bf8-8a76-94107de4121e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9106a6bb-1352-411f-ac26-0d6fe48c16a8.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\93a306b8-594a-4c7f-8b4a-127fb6ad8f1a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\93b47b14-7f78-4b31-8897-d63a81fdab01.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\984caf56-f400-4a29-be97-a4d6b9d1468d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\98976666-9125-47fe-9601-43c41e58dfb4.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\99a21c5c-f5a7-4c07-9cb6-5dda2d388f48.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\99b13257-b9d9-422f-8262-802da0bdc510.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\99d6a7e5-128e-4455-841d-8fbd1663905e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\99e979d4-ee97-4d7f-9da6-00bead40db4d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9acf303a-fcba-4e52-be3e-8d061aa5e72a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9b410534-3b70-4a88-9f93-205cf4e55a05.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9c48fdf4-621d-4f40-bcd7-6a28cd530de7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9c4cb048-d64a-4b7f-84ff-ca28a8084fc7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9d155086-acf5-4c86-a9e1-94b587c46e87.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9dc6ed5d-6698-48cf-aab3-fd156673729c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9e0e1928-d19a-4100-b093-0b962ac09e05.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9e82c996-2cfa-418d-9482-8ee23e9d0a5d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9eb66577-7857-43dc-a879-8f2c9d7f780f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9f38055f-4fe6-47fd-a6dd-c0743db4eccf.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\9f959520-e15e-45c2-bc29-ef3c19154d1c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a054a8e2-55f2-4508-97df-207f76b89be2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a065c50b-341d-4803-b4b0-0fe8f04fdbb5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a0eeeb10-d0cb-48d9-8c22-2c3a3c908d00.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a11ed7d0-12f6-468f-abad-5cba7d968123.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a15e0fa8-2620-4f66-896e-175115c9dc3d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a1669b59-fe09-4fe6-ba9f-06bec6725502.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a2a20600-f851-4db7-90f9-6f7be027c8b5.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a30da226-b452-408a-a556-bfae4d521464.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a4409217-be11-4478-90a5-b406057d154d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a4d7a7e1-5ae1-486d-b6ee-c9af1476ccad.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a4fbb9f2-9b75-4fdc-877d-2feaafac25b3.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a51d6c18-f9e8-4714-9dbb-38e1577445f2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a5c3b3f8-7ceb-4573-a400-a76b9479af46.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a63ce82f-f3d1-4818-9035-d3d230e5f686.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a6526894-e290-482d-ac43-f1df34864817.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a72cd558-b7ac-4bf2-a344-2ce6c73a354e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a777e78c-ad1f-4380-9ab2-b4f9f32b2d78.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a824b499-3736-4581-bbdc-be1b3b4cf756.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a88a48b6-f85c-45c1-b42f-79716c8463f1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a9159b11-ba49-4885-902e-00c8d5095b98.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\a9daf82a-a46d-4296-bd72-2c374ed0a193.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\aaade430-4c49-4038-97b7-f8cdd937db57.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ac4d6507-d710-497b-ad7c-e0dd75c1d06d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ae779806-6d01-4dc6-89df-294c368db6bc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\afd39466-aafa-4d81-9520-483727418723.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b1145408-feae-4637-b4cf-3e70b99cc62d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b4261fa5-876d-48ea-b6da-ec7ca5b48fe2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b634137b-bc8b-4e88-b0e3-b536ad6e7e18.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b6364a57-72a9-43f3-8d02-9f53a992dc95.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b666fcc2-d0b2-441e-bc5a-c660345eeb5d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b7d0ae11-a393-4aec-8f68-6ba07147f78a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b809b407-7b69-4334-873d-d6c49135f04a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b87fb62d-2c36-4f68-aba9-37fcd7d46eef.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b8a4d467-c40c-4ebf-91dd-1c19d0f2a7ae.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b9c6db13-ca3a-4937-8ecf-e537047ed858.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b9ccf7ca-953f-4832-9575-5e70b2a8c224.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\b9d65ef3-1adc-4479-abee-2e422f5a613a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\baa87bf8-786c-444c-81e8-9fa0a41d8149.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\bb137718-20ba-457d-8ffe-4f9420ecaab6.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\bb2042c5-35e1-43cc-8171-7de81b764361.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\bcaefb02-682a-41b9-acc7-e6cc010f5b30.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\bcb447c9-5d37-414f-a513-d7076b04a532.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\bdb5d571-27bc-4a42-ae45-aa5a9af40a81.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\be779f52-0bfa-4c01-a16f-b7f0bc92ed7c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\bf002a25-6535-4621-be19-56d468be5413.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c22f7031-9cf8-48ce-b03b-1b12d0db4951.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c244166d-12ca-445f-9ed9-a13d9caa412f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c2ec116f-f091-422c-926c-70b548a8f6ef.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c35ee701-fde2-46b5-b178-1fe3f1ea7da2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c415532c-4cce-4580-9fcd-623c172a1abd.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c442e2d6-aaf9-417a-9905-4737a1115f33.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c4c7ed75-dbdf-4bb6-b6ba-718903cf7264.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c4d34e35-4db2-41de-ba77-1a94aa9ef788.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c5084fb8-2b62-464c-8a77-1a07ea653266.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c680004e-6ee2-43d7-877c-edc9b5ebeecc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c691c8ef-d3c7-47b6-a941-f6a1089f21a9.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c742ee2c-6814-46cd-af56-ae87bb9972f4.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c7c1b873-0548-4a73-9618-f60912e164df.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c84edeb4-311c-4e82-88f9-ae0505b3ad13.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c94827ce-d619-4705-a68a-df63a2c95ffa.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c956e531-6805-4fe1-b61c-8b96a9815a77.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\c9ad92d4-b408-4506-916e-def47b2e6ed0.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ca5e6a15-ba65-48ea-8913-2d986e71bf3a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ca734448-0d52-42fa-b41c-17b2939e58ae.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\caeb2d62-1166-43f0-8eac-5b8fc48f02eb.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\cd2774a0-dab2-4d68-aae9-7568b9f3d2a6.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\cf90d82f-2814-4fb7-a3ff-a86b7c5efca7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d0347b49-8f98-4632-a384-1a4f57ac6374.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d1144956-5a0c-4bd2-b67d-8498c82d6a12.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d12c5f45-6b20-46d6-a66f-c5a4683c25b3.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d1924af6-7512-4ccc-9c6b-adbbaa8db41f.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d3dcdf92-9328-4796-adf4-918646877ba1.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d79b4e90-c45d-4f5d-a498-49c3e323c291.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d7c7eb2c-2acd-4f86-8a5a-09ab3dd02d16.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d8632217-ec33-4d0a-98e6-427824c58869.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\d9c9479e-f1ea-4d6e-861f-843ff9a90d19.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\da111ca5-520f-4ea8-97ad-ae5fce58ee91.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\daea4860-a296-4f6d-acef-996ab0882676.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\dbdfad64-110c-421f-a1c7-f68fd9e82d67.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\dc6ac71b-2616-431e-bfd5-4c38139e4ddd.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\dcb21739-3c36-459d-b3cc-1be5871d6fe7.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\dd090806-e4ac-4a78-b2ee-55a30626369c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\de5d19b7-e670-4ac7-843b-7ce7bcebdf45.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\deaa1931-5f97-45bf-8c00-be6ddeb37b9a.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e0ef520d-7b65-485d-9888-e6859f189f70.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e11515b4-9527-4c23-a0ba-43719bacca0d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e13f2327-fbf4-4d84-a8c1-09cb1e449c8c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e16c0dab-780d-4035-872e-1bb91e49f9d2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e1937e32-85d5-4cd8-bb4a-b9cf8ee7ceeb.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e36cb882-c6d0-4467-812e-d18c169a9a47.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e3e9c2de-0a24-4c7e-8a69-3d3093d5bdab.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e4827c85-311a-4df1-89c2-99dad0c3558c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e4eea7ea-8989-46a9-9c98-25a178146b28.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e61e6af2-7f8b-47b0-bbe7-acb2ed0299ab.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e683144c-0465-43a2-86b1-3cf52599d5e0.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e726dac6-f962-449c-acff-4dd56847b685.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e79bd81b-f878-4bee-9be2-d91a722c031e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e81bf478-27ff-458c-ac30-9e1f8480bc5c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\e98ea067-82b5-4a0d-87bf-b4bbdc10ddab.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\eb0173a3-7e5e-4f53-8124-03d9d6317844.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\eb5f4f2f-2275-4a80-84a5-78a1eaf4ce4d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\eb86033f-4f1c-4e8c-ae84-e8e4c7e08626.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ebfd9f67-138e-49f0-9cef-a0352069eedb.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ec60ab26-3343-4c5f-9667-cdae999c7d86.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\edcb4d77-a4d3-465d-9b59-eb3087766b1c.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ef1419e0-3a3a-458a-b3b2-7efddac50404.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ef815e3a-02a6-4cf8-9262-45bc74c50b00.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ef83ed4c-2724-4d5f-8abe-1a18d25cea35.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f05ffdca-dc3a-47bd-a231-2a0d9bd1d50e.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f2574be3-81c6-4fc3-8a40-0230d1264f52.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f4c2b43f-a2e7-4746-8034-0b34aebba8ee.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f5869ba8-6253-426b-93f3-82af59a86144.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f5c51193-8a27-4ef3-83ad-771395d63caf.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f632981c-1330-4078-8a12-691beb2dab02.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f6f8a69a-3fd2-4684-ac77-3e83ea0fb36d.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f77d7469-d083-4c2d-a4ea-5a9ff162e3e2.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f8b14fc4-dd6b-4ad0-a96d-c62845f48681.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\f939782b-f5a2-40a3-9c22-6c6d7e18edc3.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\fa1f9f89-cecb-4972-842c-d14c632f89a9.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\fb05b297-180a-4171-b633-09d5616d7534.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\fc8df086-39e0-43f8-b0c7-2d23a349539b.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\fd1c4c7a-24bc-43f2-b84f-fee182207aee.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\fe691faa-3bc7-475e-b558-aa8fe7b795bc.png
+ orvile train trophozoite  ..\data\raw\orvile\train\trophozoite\ffb7be9a-65df-4f0b-99ae-cfd34e81cd34.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\04de27ff-0d36-4da3-a829-e93851d76981.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\406e05f0-4444-414c-bb40-f4cb08e75ac9.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\43bc935a-f655-45e1-a64d-fcb8b78267a6.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\78ac1e98-7062-4e27-8d58-25c392cae889.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\7db1373d-5bbf-47e6-ab40-30cba7678745.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\a63fa2c7-3ec8-4bb7-bde6-a39e09d2f806.png
+ orvile   val  gametocyte     ..\data\raw\orvile\val\gametocyte\c8fd1336-dd0a-4f97-abbf-be2c18b91e02.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\0154dd8e-72f8-4d78-a4dd-93e139577bd1.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\0546d843-d778-4aca-b8b5-bfe23d7c87da.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\13099edb-35d9-438f-b093-2cf2ebf9d255.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\21417261-475a-456f-b03f-57ac85a6e106.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\39cc33be-d752-40fe-b7a8-2e69a3517205.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\4d8a4ce8-0f9c-4f21-8844-4cf0e5514bbf.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\5836500a-221e-40ca-a8be-caaa37f7d300.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\584d62ed-4329-45dd-94ce-e929d8b2bb74.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\5c037ffc-f515-48b3-b231-c110fbd2b8ca.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\5ccca8ee-abea-458a-a891-bedd31c3ddc3.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\6dfafdf1-f588-4e80-8cf8-0126e1bf7af9.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\8cca114a-ed05-4b87-95b7-fae02487f08c.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\b3058064-d817-47dd-a8c4-cdb1f62374f8.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\c4494d4f-732f-431a-8a9d-62403f0b74fe.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\d532e31c-10ce-4313-9a36-bd5e01230254.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\da49db57-0c2f-4213-b322-c88c19fb9296.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\dedbb10c-43f1-45fb-bb40-3ce2fb874015.png
+ orvile   val        ring           ..\data\raw\orvile\val\ring\eb6e8684-b84e-483d-b835-f59286d2516b.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\27388ff2-4000-4c9a-a2e3-addc448a5f92.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\32a1ea24-b6b7-4253-ad3e-bdf99c2c9b9d.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\3612aa3b-2906-44a6-9c80-6144511a35ce.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\5939f341-a886-4f63-ae87-2219d000a1d4.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\68442532-9cd2-4b42-9d4f-ddf8c13bb38c.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\6fd30823-3b77-40c9-ba5d-e1eda9660674.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\834a30bb-26bf-4e60-9ea1-3250b926892e.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\a85cd1ae-0c94-4387-8305-84ab8d96d137.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\b234b6ea-b54d-470c-8461-ba7f4a024796.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\bf20d04d-ff8a-4910-91d7-94054c267d1b.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\cc275c45-7511-4070-84af-10b8ffebda53.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\de0321fa-6f7d-4dd1-b96b-186701c3b1d9.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\e0e6b676-c39c-4542-8adf-de257a8e92e2.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\e3a4b3e7-9500-4b6c-a402-b6d3f45e714b.png
+ orvile   val    schizont       ..\data\raw\orvile\val\schizont\e3ade58d-086c-47fa-9120-76beacb45395.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\0a7bfa8a-ee52-4f7a-b9c5-2919ecfa93ef.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\0ab56f9a-846d-49e2-a617-c6cc477fdfad.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\1574565f-f45b-4160-947e-25ce1a81aaca.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\1b7f47fc-26cd-4273-b848-88a7cbfd9f85.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\1e86933d-6a5a-4a3c-a0f2-ca22afd767b3.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\1f8f08ea-b5b3-4f68-94d4-3cc071b7dce8.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\20d4f65e-6c63-433a-935c-d568d577967b.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\252071ac-e9f2-41d2-abbb-87ef01b8a997.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\266180ed-77a3-4284-8292-50a49fc47fce.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\2aeb7b85-7df9-4a63-8d37-2eecaaa190e7.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\2c4d72f1-71a6-4bf1-b5d9-8023c7bbec74.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\3859deaf-6ae1-49a3-9051-898d0f0d7de6.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\4372709c-f356-4906-be17-415384d916e8.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\4849866a-73a2-4fcf-a407-2d0a25a09a89.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\4903d9c7-de88-426a-b42d-a7e797e5ebcd.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\50715879-2300-4dba-8f4a-3314ff8cfcce.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\550cf4ce-b641-44a3-8487-3e16d4049187.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\58594235-0d32-4a4e-91cd-4c800eaaaa73.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\58ced55c-bf0d-4204-b6b2-4f8992d92779.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\5e974892-0ebe-4037-8427-ea8616d6d3b8.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\5f300fd1-7eec-41ac-bbd1-0f4a943c757c.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\5f742392-278d-461c-a848-08def2c28878.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\61575482-91e1-4db9-83c7-687b7ddbbfc4.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\640c4a52-3742-4f57-aee3-9e3dc0887622.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\672e4ecf-a56b-462e-b83b-76f4efaa6634.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\6b5ed184-cb15-4d54-93bb-9a3ca00184a1.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\6c20abb2-c4bb-4de0-8774-03f4d30ce93d.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\71925778-a26e-483e-a07c-f3aaf740122a.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\729a38d6-66db-48e5-a00d-7d90d224290f.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\7c1cd7c7-7452-4428-a98e-dd7675c8ddea.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\7fdc8be8-7579-4a5c-b369-8a07ee0a8b7d.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\801296d9-3403-426f-859e-5c532858e025.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\8ad7ba46-5db8-4ba9-b3e0-3cac52f7efc3.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\8e0dfc1f-e3eb-4a3f-a1c4-249bdfbfaa27.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\939ad732-d7c5-4339-b087-4335b49d6a3c.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\9842445c-5899-4189-9f2e-3a3a179fdad3.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\997eabd9-55bf-4683-83c4-4cee4673a4ef.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\a3c0a876-be12-4ede-8aed-18b32a64401b.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\a7f1bbb1-6058-4642-bd66-cfb90dce762e.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\a89cace5-c818-4f23-a432-052b3433b81e.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\b2e34f5f-904e-4473-9dc7-c6bc1ce12640.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\b318889c-3c60-477c-b8f6-d18cb01a59df.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\b3606d0e-6fe5-478a-bb4b-64d7c4889d86.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\b701b5c5-b922-4315-b12a-aac4ec65ee8b.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\b91b1641-ee06-44d8-94cc-24cdb583cc37.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\bbaa004f-05dc-4cb8-8768-e148085bb0f9.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\cb08956d-dd6a-4e13-817b-40a0a93068f1.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\cbb58718-6319-48db-b84b-78ac9b12ff89.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\d1b48634-9ad5-46e8-b816-42d1d97c93cd.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\d5009906-bce1-4353-90b4-f4c79362f4cf.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\d82c657e-5678-41da-9a6e-3ad29430b759.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\dca685a8-a609-45d8-93d7-da1e4165b9bd.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\e0ff3476-226f-4125-b182-8e524d5503dd.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\f0fe292d-85ae-4c3a-a676-037dde2594e6.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\f62d4fb6-df7c-446c-94a8-d5aede0b1e0c.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\f68ae8e9-e760-4106-88e0-4bdef2785f06.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\fc15659f-6264-4dd5-ab17-43d89fb297b9.png
+ orvile   val trophozoite    ..\data\raw\orvile\val\trophozoite\ff3b9d4d-373c-48ef-a75a-d23e2c2ade87.png
