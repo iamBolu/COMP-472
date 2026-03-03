@@ -86,6 +86,7 @@ All team members must use the following dataset structure.
 
 Datasets are stored locally and are not tracked on GitHub due to size limitations.
 
+```
 data/raw/
 
 - miracle9to9/
@@ -93,7 +94,7 @@ data/raw/
   - val/
   - test/
 
-- orvile/
+- iml_malaria/
   - train/
   - val/
   - test/
@@ -102,8 +103,113 @@ data/raw/
   - train/
   - val/
   - test/
+```
 
 Each split contains class folders followed by microscopy images.
+
+---
+
+## Dataset Preparation and Corrections
+
+During Phase 2, additional dataset preparation work was required to ensure that all datasets satisfied the experimental requirements of the project and could be safely used for training machine learning models.
+
+### iml_malaria Dataset Reconstruction
+
+The original **IML Malaria dataset** was distributed as a collection of microscopy images accompanied by a JSON annotation file describing parasite types present in each image. The dataset did not originally follow a standard image classification folder structure.
+
+To make the dataset usable for CNN training, the following preprocessing steps were performed:
+
+- The annotation file was parsed to identify parasite class labels associated with each image.
+- Only images containing a **single unambiguous parasite class** were retained.
+- Images containing **multiple parasite types or ambiguous annotations** were excluded to avoid label noise.
+- Remaining images were reorganized into a standard classification structure.
+
+The final dataset structure:
+
+```
+train/
+val/
+test/
+```
+
+Each split contains four parasite classes:
+
+- gametocyte  
+- ring  
+- schizont  
+- trophozoite
+
+After filtering, **209 usable labeled images** remained.
+
+Final distribution:
+
+| Split | Images |
+|------|------|
+| Train | 154 |
+| Validation | 30 |
+| Test | 25 |
+
+Images that could not be confidently labeled were removed to maintain dataset quality.
+
+---
+
+### miracle9to9 Dataset Leakage Fix
+
+During dataset validation, duplicate filenames were detected across multiple splits of the **miracle9to9 dataset**. Although the images themselves were different, identical filenames caused automated validation scripts to incorrectly detect data leakage between training, validation, and test sets.
+
+To resolve this issue, all images were renamed using a unique naming convention:
+
+```
+split__class__originalfilename
+```
+
+Example:
+
+```
+train__Parasitized__C33P1thinF_IMG_20150619_114756a_cell_179.png
+```
+
+This guarantees unique filenames across the entire dataset and prevents false leakage detection.
+
+After renaming, all dataset splits were verified to ensure **zero overlap between train, validation, and test sets**.
+
+---
+
+### Dataset Verification Scripts
+
+Two dataset validation scripts were added to the repository to ensure dataset integrity:
+
+- `dataset_stats.py`  
+  Computes dataset statistics and verifies image counts for all datasets.
+
+- `miracle9to9_hash_check.py`  
+  Verifies that there is no overlap between train, validation, and test splits.
+
+These scripts allow team members to quickly confirm dataset correctness before running experiments.
+
+---
+
+### Final Dataset Summary
+
+| Dataset | Total Images |
+|------|------|
+| iml_malaria | 209 |
+| malaria | 766 |
+| miracle9to9 | 43,390 |
+| **Total** | **44,365** |
+
+All datasets now follow the required structure:
+
+```
+dataset/
+  train/
+  val/
+  test/
+    class/
+      image files
+```
+
+All splits have been verified to ensure **no data leakage occurs between train, validation, and test sets**.
 
 ---
 
@@ -138,7 +244,7 @@ COMP-472/
 └── README.md
 ```
 
-Note:
+Note:  
 The `data/` directory is intentionally excluded from version control due to dataset size limitations.
 
 ---
@@ -177,9 +283,9 @@ Final dependency requirements will be provided once pipeline development stabili
 
 Detailed instructions for:
 
-- training models,
-- validating performance,
-- running pretrained models,
+- training models
+- validating performance
+- running pretrained models
 
 will be finalized as development progresses toward Phase 4.
 
@@ -189,9 +295,9 @@ will be finalized as development progresses toward Phase 4.
 
 All team members are expected to:
 
-- commit regularly,
-- document major changes,
-- maintain readable commit messages.
+- commit regularly
+- document major changes
+- maintain readable commit messages
 
 GitHub commit activity will be used as part of individual contribution evaluation.
 
