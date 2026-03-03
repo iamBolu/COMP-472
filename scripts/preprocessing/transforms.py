@@ -1,7 +1,6 @@
 import torch
 from torchvision import transforms
 
-# Member 3: Preprocessing & Augmentation Lead
 # Shared configuration for all 11 models
 IMG_SIZE = 128
 
