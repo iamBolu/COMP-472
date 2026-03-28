@@ -1,4 +1,4 @@
-# COMP472 — Malaria Parasite Image Classification using CNNs
+# COMP472 - Malaria Parasite Image Classification using CNNs
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ The final outcome of the project will be a comparative analysis of model perform
 
 The project is divided into several development phases.
 
-## Phase 1 — Project Planning
+## Phase 1 - Project Planning
 
 During this phase the team:
 
@@ -34,7 +34,7 @@ This phase resulted in the **project proposal and experimental plan**.
 
 ---
 
-## Phase 2 — Data Preparation and Pipeline Setup
+## Phase 2 - Data Preparation and Pipeline Setup
 
 This phase focuses on preparing datasets and building the machine learning pipeline required for training models.
 
@@ -50,7 +50,7 @@ The data pipeline will be implemented using **PyTorch Dataset and DataLoader uti
 
 ---
 
-## Phase 3 — Training CNN Models
+## Phase 3 - Training CNN Models
 
 In this phase, multiple CNN architectures will be trained on the prepared datasets.
 
@@ -71,7 +71,7 @@ Training experiments will involve:
 
 ---
 
-## Phase 4 — Model Evaluation and Comparison
+## Phase 4 - Model Evaluation and Comparison
 
 After training is completed, models will be evaluated using standard classification metrics.
 
