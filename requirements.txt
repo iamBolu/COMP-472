@@ -3,3 +3,4 @@ torchvision
 pandas
 Pillow
 matplotlib
+thop
