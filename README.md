@@ -130,11 +130,11 @@ The notebook is written in PyTorch and covers:
 
 | Member Name | GitHub Username | Assigned Tasks                   | Details                                                                                                                                          |
 | ----------- | --------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Member 1]  | [username1]     | Data Exploration & Visualization | Verified datasets, counted images, created plots, and provided shared visualization/reporting functions for all members.                         |
-| [Member 2]  | [username2]     | Pipeline & Utilities             | Built shared data/model pipeline, implemented dataset/dataloader/transform/class weights, and provided model/training utilities for all members. |
-| [Member 3]  | [username3]     | ResNet-18 Training               | Trained ResNet-18 from scratch on all datasets, saved results, and generated training/evaluation outputs.                                        |
-| [Member 4]  | [username4]     | (Planned: VGG-16 + Optimization) | (Planned: Would train VGG-16 and run LR sweep, but not completed in final results.)                                                              |
-| [Member 5]  | [username5]     | MobileNet-V2 & Transfer Learning | Trained MobileNet-V2 from scratch and with transfer learning, performed T-SNE visualizations, and created final comparison tables.               |
+| Bolu        | iamBolu         | Data Exploration & Visualization | Verified datasets, counted images, created plots, and provided shared visualization/reporting functions for all members.                         |
+| Isai        | isaisa002-cas   | Pipeline & Utilities             | Built shared data/model pipeline, implemented dataset/dataloader/transform/class weights, and provided model/training utilities for all members. |
+| Rimec       | Rimec100        | ResNet-18 Training               | Trained ResNet-18 from scratch on all datasets, saved results, and generated training/evaluation outputs.                                        |
+| Stephanie   | alien-stephanie | (Planned: VGG-16 + Optimization) | (Planned: Would train VGG-16 and run LR sweep, but not completed in final results.)                                                              |
+| Ram         | CybRam          | MobileNet-V2 & Transfer Learning | Trained MobileNet-V2 from scratch and with transfer learning, performed T-SNE visualizations, and created final comparison tables.               |
 
 ---
 
