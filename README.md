@@ -1,209 +1,153 @@
-# COMP472 - Malaria Parasite Image Classification using CNNs
+# COMP-472 Malaria Parasite Classification
 
-## Project Overview
+GitHub Repository: https://github.com/iamBolu/COMP-472
 
-This repository contains the implementation of the **COMP472 Applied Artificial Intelligence course project (Winter 2026)** at Concordia University.
-
-The objective of this project is to evaluate the performance of multiple **Convolutional Neural Network (CNN)** architectures on microscopy images of malaria parasites. The study compares how different neural network models perform across multiple datasets representing various parasite stages.
-
-The project investigates how the following factors influence image classification performance:
-
-- CNN architecture complexity
-- Dataset variability
-- Image preprocessing techniques
-- Training optimization strategies
-
-The final outcome of the project will be a comparative analysis of model performance across multiple datasets.
+Video Presentation: [ADD VIDEO LINK HERE]
 
 ---
 
-# Project Phases
+## Project Description
 
-The project is divided into several development phases.
+This project trains convolutional neural networks (CNNs) to classify malaria parasite images taken from microscopy slides. We compare two CNN architectures (ResNet-18 and MobileNet-V2) trained from scratch and with transfer learning across three publicly available datasets.
 
-## Phase 1 - Project Planning
-
-During this phase the team:
-
-- Defined the research problem
-- Selected candidate datasets
-- Proposed CNN architectures for experimentation
-- Developed a project timeline and Gantt chart
-
-This phase resulted in the **project proposal and experimental plan**.
+The datasets cover different parasite stages: ring, trophozoite, schizont, and gametocyte, as well as a binary parasitized vs uninfected classification task.
 
 ---
 
-## Phase 2 - Data Preparation and Pipeline Setup
+## Requirements
 
-This phase focuses on preparing datasets and building the machine learning pipeline required for training models.
+This project runs in Google Colab with GPU. All experiments are in the notebook `notebooks/cnn_malaria.ipynb`.
 
-Key objectives include:
-
-- Selecting appropriate malaria microscopy datasets
-- Organizing datasets into a classification-ready structure
-- Preparing training, validation, and test splits
-- Implementing dataset loading pipelines
-- Designing preprocessing and augmentation strategies
-
-The data pipeline will be implemented using **PyTorch Dataset and DataLoader utilities**.
-
----
-
-## Phase 3 - Training CNN Models
-
-In this phase, multiple CNN architectures will be trained on the prepared datasets.
-
-The following models have been selected for experimentation:
-
-- **ResNet-18**
-- **VGG-16**
-- **MobileNet-V2**
-
-Each architecture will be trained on all datasets, resulting in multiple baseline models.
-
-Training experiments will involve:
-
-- hyperparameter tuning
-- monitoring training metrics
-- saving model checkpoints
-- comparing model convergence behavior
-
----
-
-## Phase 4 - Model Evaluation and Comparison
-
-After training is completed, models will be evaluated using standard classification metrics.
-
-Evaluation metrics include:
-
-- Accuracy
-- Precision
-- Recall
-- F1-score
-
-Additional analysis may include:
-
-- confusion matrices
-- per-class performance analysis
-- comparison across datasets and architectures
-
-The goal is to identify how different CNN architectures perform when trained on microscopy parasite datasets.
-
----
-
-# Datasets
-
-This project uses three malaria microscopy image datasets sourced from publicly available repositories.
-
-The datasets represent different parasite stages and infection conditions.
-
-Datasets are organized locally in the following structure:
+Install required libraries with:
 
 ```
-data/raw/
-
-miracle9to9/
-  train/
-  val/
-  test/
-
-iml_malaria/
-  train/
-  val/
-  test/
-
-malaria/
-  train/
-  val/
-  test/
-```
-
-Each dataset contains class folders that correspond to parasite categories.
-
-Datasets are stored locally and **are not tracked in GitHub due to size constraints**.
-
----
-
-# Machine Learning Pipeline
-
-The project training pipeline will include the following components:
-
-1. Dataset loading
-2. Image preprocessing
-3. Data augmentation
-4. CNN model training
-5. Validation during training
-6. Final evaluation on test datasets
-
-The implementation will primarily use **PyTorch**.
-
----
-
-# Repository Structure
-
-```
-COMP-472/
-│
-├── notebooks/            # Experiments and exploratory analysis
-├── scripts/              # Data preprocessing and training utilities
-├── models/               # Saved model checkpoints (local)
-├── results/              # Experiment outputs and plots
-├── data/                 # Local datasets (excluded from GitHub)
-└── README.md
-```
-
-Note:
-
-The `data/` directory is excluded from version control because the datasets exceed GitHub size limits.
-
----
-
-# Environment Setup
-
-It is recommended to run the project inside a Python virtual environment.
-
-Example setup:
-
-```
-python -m venv .venv
-source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Dependencies will be listed in `requirements.txt`.
+The requirements.txt includes:
+
+- torch
+- torchvision
+- pandas
+- Pillow
+- matplotlib
+- thop
 
 ---
 
-# Running Experiments
+## How to Get the Dataset
 
-Training and evaluation scripts will be provided in the `scripts/` directory.
+The datasets are stored in a shared Google Drive folder.
 
-These scripts will support:
+Download link: https://drive.google.com/drive/folders/1cimbdxEGg51H_wNYZlnBtCZkhFMgrQ_n?usp=drive_link
 
-- model training
-- validation monitoring
-- evaluation on test datasets
+The folder contains three datasets:
 
-Detailed instructions will be added as the training pipeline is finalized.
+- malaria (4 classes)
+- iml_malaria (4 classes)
+- miracle9to9 (2 classes: Parasitized, Uninfected)
 
----
+Each dataset is already split into train, val, and test folders.
 
-# Collaboration Workflow
+**Important step for collaborators before running the notebook:**
 
-This project is developed collaboratively by a team of five members.
+Each person must do the following so that the file paths in the code work correctly:
 
-Team members contribute by:
+1. Open the shared Google Drive folder using the link above
+2. Right-click the folder and select "Add shortcut to Drive"
+3. Place the shortcut in "My Drive" (not in "Shared with me")
+4. The notebook will then find data at `/content/drive/MyDrive/COMP472/Project/data/raw`
 
-- implementing project components
-- documenting experiments
-- maintaining clear commit histories
-- participating in debugging and evaluation
-
-GitHub activity is used to track project contributions.
+If you skip this step, the notebook will print `Data: ... (exists: False)` and no dataset will load.
 
 ---
 
-# License
+## Repository Structure
 
-This repository is created strictly for **academic use** as part of the **COMP472 Applied Artificial Intelligence course at Concordia University (Winter 2026)**.
+```
+COMP-472/
+    notebooks/         main experiment notebook (cnn_malaria.ipynb)
+    data/              local dataset folder (not tracked in GitHub)
+    requirements.txt   Python dependencies
+    README.md          this file
+```
+
+---
+
+## How to Train the Models
+
+1. Open Google Colab and upload or open `notebooks/cnn_malaria.ipynb` from this repository
+2. Connect to a GPU runtime: Runtime > Change runtime type > GPU
+3. Run cell 3 to mount Google Drive and set up paths
+4. Run cell 4 to confirm the drive is mounted (skip if already mounted)
+5. Run cell 5 to verify that all three dataset folders are found
+6. Run the remaining cells in order to train ResNet-18 and MobileNet-V2
+
+Cells 3, 4, and 5 will only work if you have completed the Google Drive shortcut step described above. Cell 3 automatically tries several possible path formats for the data folder. If data is not found, check that the shortcut is placed in "My Drive" and not "Shared with me".
+
+Model checkpoints are saved to `/content/drive/MyDrive/COMP472/Project/checkpoints/` during training.
+
+---
+
+## How to Run the Pre-Trained Model on the Sample Test Dataset
+
+1. Open `notebooks/cnn_malaria.ipynb` in Google Colab
+2. Mount Google Drive and complete the drive shortcut step described above
+3. Run cell 3 to set up paths
+4. Skip the training cells and go to the evaluation section
+5. Load a saved checkpoint by pointing the model to the checkpoint file:
+
+```python
+model.load_state_dict(torch.load("/content/drive/MyDrive/COMP472/Project/checkpoints/your_checkpoint.pth"))
+model.eval()
+```
+
+6. Run the evaluation cells to generate predictions, confusion matrices, and classification reports on the test split
+
+The test split is already included in each dataset folder under the `test/` subdirectory.
+
+---
+
+## Source Code
+
+All training, evaluation, and visualization code is contained in:
+
+`notebooks/cnn_malaria.ipynb`
+
+The notebook is written in PyTorch and covers:
+
+- data loading and augmentation
+- model definitions (ResNet-18, MobileNet-V2)
+- training loops with validation
+- evaluation with F1 score, accuracy, confusion matrix
+- transfer learning runs
+- T-SNE visualizations
+- final comparison table of all models
+
+---
+
+## Team Contribution Table
+
+| Member Name | GitHub Username | Assigned Tasks | Details |
+| ----------- | --------------- | -------------- | ------- |
+| [Member 1]  | [username1]     | Data Exploration & Visualization | Verified datasets, counted images, created plots, and provided shared visualization/reporting functions for all members. |
+| [Member 2]  | [username2]     | Pipeline & Utilities | Built shared data/model pipeline, implemented dataset/dataloader/transform/class weights, and provided model/training utilities for all members. |
+| [Member 3]  | [username3]     | ResNet-18 Training | Trained ResNet-18 from scratch on all datasets, saved results, and generated training/evaluation outputs. |
+| [Member 4]  | [username4]     | (Planned: VGG-16 + Optimization) | (Planned: Would train VGG-16 and run LR sweep, but not completed in final results.) |
+| [Member 5]  | [username5]     | MobileNet-V2 & Transfer Learning | Trained MobileNet-V2 from scratch and with transfer learning, performed T-SNE visualizations, and created final comparison tables. |
+
+---
+
+## Contributors
+
+To add the professor and Lead-TA as contributors:
+
+1. Go to the repository on GitHub
+2. Click Settings > Collaborators
+3. Add them using their GitHub usernames or email addresses
+
+---
+
+## Note on Data
+
+The `data/` folder is not tracked in this repository because the datasets are too large for GitHub. Use the Google Drive link above to download them.

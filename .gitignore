@@ -4,3 +4,7 @@ __pycache__/
 latex/
 venv/
 *.pyc
+docs/
+Lab_Tutorial_Week_8 (1).ipynb
+Lab_Tutorial_Week_9.ipynb
+comp472_project_guideline_winter2026.pdf
